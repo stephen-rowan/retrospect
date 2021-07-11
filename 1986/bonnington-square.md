@@ -8,10 +8,7 @@ description: Living in 81 Bonnington Square
 
 ![Lived in a wooden house in a yard. I borrowed Roland Barthes books from him.](https://user-images.githubusercontent.com/25156451/125210952-bc7bc100-e29a-11eb-8dc4-34d3de8501e5.png)
 
-
-![2021-07-11 (3)](https://user-images.githubusercontent.com/25156451/125211037-622f3000-e29b-11eb-8986-824d780fd0e0.png)
-
-
+![Andy](https://user-images.githubusercontent.com/25156451/125211037-622f3000-e29b-11eb-8986-824d780fd0e0.png)
 
 ## References
 
