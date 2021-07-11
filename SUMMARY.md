@@ -5,6 +5,7 @@
 ## 1986
 
 * [The Wapping Dispute](1986/the-wapping-dispute.md)
+* [Bonnington Square](1986/bonnington-square.md)
 
 ## 1985
 
