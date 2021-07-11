@@ -2,6 +2,10 @@
 
 * [retrospect](README.md)
 
+## 1989
+
+* [1989](1989/untitled.md)
+
 ## 1988
 
 * [Road Sweeping](1988/road-sweeping.md)
@@ -23,8 +27,4 @@
 ## 1983
 
 * [Stop the City](1983/stop-the-city.md)
-
-## 1989
-
-* [Untitled](1989/untitled.md)
 
