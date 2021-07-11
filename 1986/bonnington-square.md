@@ -16,10 +16,9 @@ description: Living in 81 Bonnington Square
 
 ## Hamid
 
-![1985-Hamid-Bonnington-Square](https://user-images.githubusercontent.com/25156451/125212223-c35b0180-e2a3-11eb-9528-22a5b37aa97d.jpg)
+![1985-Hamid&apos;s Passport Photo-Bonnington-Square](https://user-images.githubusercontent.com/25156451/125212223-c35b0180-e2a3-11eb-9528-22a5b37aa97d.jpg)
 
 ![1984-Hamid-Derek-and-Lucys-baby-at-Bonnington-Square](https://user-images.githubusercontent.com/25156451/125212246-e4235700-e2a3-11eb-80ac-a278ddee51ab.jpg)
-
 
 ## Tony who ran the corner shop
 
