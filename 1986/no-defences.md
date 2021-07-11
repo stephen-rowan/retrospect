@@ -14,6 +14,8 @@ description: Iggy and Andy
 
 {% embed url="https://demotapesrecords.bandcamp.com/album/released" caption="" %}
 
+# Slave Dance
+
 ![2021-07-11 \(5\)](https://user-images.githubusercontent.com/25156451/125211657-e388c180-e29f-11eb-8274-66df8a675d8c.png)
 
 
