@@ -4,16 +4,23 @@ description: Living in 81 Bonnington Square
 
 # 81 Bonnington Square
 
+## Andy, Derek, Iggy, Chumbawamba members
+
 ![Andy, Derek, Iggy, Chumbawamba members. 81 Bonnington Square](https://user-images.githubusercontent.com/25156451/125210575-8a695f80-e298-11eb-9f89-2730aefca69d.png)
 
 ![Lived in a wooden house in a yard. I borrowed Roland Barthes books from him.](https://user-images.githubusercontent.com/25156451/125210952-bc7bc100-e29a-11eb-8dc4-34d3de8501e5.png)
 
+## Andy
+
 ![Andy](https://user-images.githubusercontent.com/25156451/125211037-622f3000-e29b-11eb-8986-824d780fd0e0.png)
+
+## Tony who ran the corner shop
 
 ![Tony who ran the corner shop and sold single cigarettes.](https://user-images.githubusercontent.com/25156451/125211163-6c056300-e29c-11eb-8879-9ea3b317587b.png)
 
-![1984-Bonnington-Sq-Cat](https://user-images.githubusercontent.com/25156451/125212150-5fd0d400-e2a3-11eb-9496-1b4a88c92310.jpg)
+## Bonnington-Sq-Cat
 
+![1984-Bonnington-Sq-Cat](https://user-images.githubusercontent.com/25156451/125212150-5fd0d400-e2a3-11eb-9496-1b4a88c92310.jpg)
 
 ## References
 
