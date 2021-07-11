@@ -48,10 +48,6 @@ description: Living in 81 Bonnington Square
 
 ![1984-Bonnington-Square-Squat](https://user-images.githubusercontent.com/25156451/125212415-2ac58100-e2a5-11eb-82c9-fe4961225a1c.jpg)
 
-
-
-
-
 ## References
 
 {% embed url="https://vimeo.com/36595608" caption="" %}
