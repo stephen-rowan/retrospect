@@ -4,6 +4,8 @@ description: Iggy and Andy
 
 # No Defences
 
+## No Defences
+
 ![1986 No Defences - Oil on Board](https://user-images.githubusercontent.com/25156451/125211390-e71b4900-e29d-11eb-8be5-8bac1f5f99a6.jpg)
 
 {% embed url="http://anarchoscene.blogspot.com/2011/06/no-defences.html" caption="" %}
@@ -14,11 +16,11 @@ description: Iggy and Andy
 
 {% embed url="https://demotapesrecords.bandcamp.com/album/released" caption="" %}
 
-# Slave Dance
+## Slave Dance
 
-![2021-07-11 \(5\)](https://user-images.githubusercontent.com/25156451/125211657-e388c180-e29f-11eb-8274-66df8a675d8c.png)
+![Slave Dance Album](https://user-images.githubusercontent.com/25156451/125211657-e388c180-e29f-11eb-8274-66df8a675d8c.png)
 
-
+{% embed url="https://www.discogs.com/Slave-Dance-Defenders-Of-The-Lie/release/2544974" %}
 
 
 
