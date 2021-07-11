@@ -6,7 +6,7 @@
 
 * [The Wapping Dispute](1986/the-wapping-dispute.md)
 * [81 Bonnington Square](1986/bonnington-square.md)
-* [No Defences](1986/no-defences.md)
+* [No Defences & slave dance](1986/no-defences.md)
 
 ## 1985
 
