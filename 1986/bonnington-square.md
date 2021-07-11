@@ -12,6 +12,9 @@ description: Living in 81 Bonnington Square
 
 ![Tony who ran the corner shop and sold single cigarettes.](https://user-images.githubusercontent.com/25156451/125211163-6c056300-e29c-11eb-8879-9ea3b317587b.png)
 
+![1984-Bonnington-Sq-Cat](https://user-images.githubusercontent.com/25156451/125212150-5fd0d400-e2a3-11eb-9496-1b4a88c92310.jpg)
+
+
 ## References
 
 {% embed url="https://vimeo.com/36595608" caption="" %}
