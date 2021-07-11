@@ -32,10 +32,24 @@ description: Living in 81 Bonnington Square
 
 ![1987-Bonnington-Square-Sketchbooks](https://user-images.githubusercontent.com/25156451/125212332-94915b00-e2a4-11eb-92b2-00f94714ecf6.jpg)
 
-
 ## Vauxhall Tavern
 
 ![1987-03-Vauxhall-Tavern-taken-by-Joyce](https://user-images.githubusercontent.com/25156451/125212287-3d8b8600-e2a4-11eb-9ae6-7902cd32d334.jpg)
+
+## Bonnington-Square-House-Cake
+
+![1984-Bonnington-Square-House-Cake](https://user-images.githubusercontent.com/25156451/125212375-eafe9980-e2a4-11eb-9942-1b4910cffa02.jpg)
+
+## Bonnington-Square-Roof-Garden
+
+![1984-Bonnington-Square-Roof-Garden](https://user-images.githubusercontent.com/25156451/125212399-0ec1df80-e2a5-11eb-91c1-9e9663c0442b.jpg)
+
+## Bonnington-Square-Squat
+
+![1984-Bonnington-Square-Squat](https://user-images.githubusercontent.com/25156451/125212415-2ac58100-e2a5-11eb-82c9-fe4961225a1c.jpg)
+
+
+
 
 
 ## References
