@@ -14,6 +14,13 @@ description: Living in 81 Bonnington Square
 
 ![Andy](https://user-images.githubusercontent.com/25156451/125211037-622f3000-e29b-11eb-8986-824d780fd0e0.png)
 
+## Hamid
+
+![1985-Hamid-Bonnington-Square](https://user-images.githubusercontent.com/25156451/125212223-c35b0180-e2a3-11eb-9528-22a5b37aa97d.jpg)
+
+![1984-Hamid-Derek-and-Lucys-baby-at-Bonnington-Square](https://user-images.githubusercontent.com/25156451/125212246-e4235700-e2a3-11eb-80ac-a278ddee51ab.jpg)
+
+
 ## Tony who ran the corner shop
 
 ![Tony who ran the corner shop and sold single cigarettes.](https://user-images.githubusercontent.com/25156451/125211163-6c056300-e29c-11eb-8879-9ea3b317587b.png)
