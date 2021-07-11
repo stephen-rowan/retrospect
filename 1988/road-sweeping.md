@@ -8,3 +8,6 @@ description: Road Sweeping
 
 
 
+
+
+![1988-Roadsweeper-Kensington-Gore](https://user-images.githubusercontent.com/25156451/125212097-fa7ce300-e2a2-11eb-8c10-81efa809d9b2.jpg)
