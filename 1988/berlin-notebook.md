@@ -10,5 +10,5 @@ description: Berlin Notebook 1988
 
 Berlin, 16th February \[...\] in the centre of the crowd. 5 paces from the beer burg
 
-Jackson Sisters I believe in miracles \[...\] two being
+Jackson Sisters "I believe in miracles" \[...\] two being
 
