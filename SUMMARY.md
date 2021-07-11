@@ -2,6 +2,10 @@
 
 * [retrospect](README.md)
 
+## 1986
+
+* [Untitled](1986/untitled.md)
+
 ## 1985
 
 * [The Battle of the Beanfield](1985/the-battle-of-the-beanfield.md)
@@ -13,8 +17,4 @@
 ## 1983
 
 * [Stop the City](1983/stop-the-city.md)
-
-## 1986
-
-* [Untitled](1986/untitled.md)
 
