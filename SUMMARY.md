@@ -4,7 +4,7 @@
 
 ## 1986
 
-* [The Wapping Dispute](1986/untitled.md)
+* [The Wapping Dispute](1986/the-wapping-dispute.md)
 
 ## 1985
 
