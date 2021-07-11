@@ -8,6 +8,7 @@
 
 ## 1988
 
+* [Berlin Notebook](1988/berlin-notebook.md)
 * [Road Sweeping](1988/road-sweeping.md)
 
 ## 1986
