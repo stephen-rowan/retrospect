@@ -4,9 +4,7 @@ description: Berlin Notebook 1988
 
 # Berlin Notebook
 
-
 ![1988-Berlin](https://user-images.githubusercontent.com/25156451/125365304-ee108d00-e36b-11eb-9973-881035676659.jpg)
-
 
 ## In the centre of the crowd
 
