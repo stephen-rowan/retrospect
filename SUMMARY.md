@@ -29,5 +29,5 @@
 
 ## 1983
 
-* [Untitled](1983/untitled.md)
+* [1983](1983/untitled.md)
 
