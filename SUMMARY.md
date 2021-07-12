@@ -24,7 +24,7 @@
 ## 1984
 
 * [Stonehenge Free Festival](1984/stonehenge-free-festival.md)
-* [Crass / Flux Of Pink Indians / No Defences / D & V, Bingo Hall, Islington](1984/crass-flux-of-pink-indians-no-defences-d-and-v-bingo-hall-islington.md)
+* [Crass / Flux Of Pink Indians / No Defences / D & V](1984/crass-flux-of-pink-indians-no-defences-d-and-v-bingo-hall-islington.md)
 
 ## 1983
 
