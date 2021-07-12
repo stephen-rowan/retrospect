@@ -30,7 +30,7 @@ description: Living in 81 Bonnington Square
 
 ## Bonnington Square Sketchbooks
 
-![1986-Sketchesb](https://user-images.githubusercontent.com/25156451/125366158-74799e80-e36d-11eb-9bfc-7979cecf1986.jpg)
+![1986 Sketchbook](https://user-images.githubusercontent.com/25156451/125366158-74799e80-e36d-11eb-9bfc-7979cecf1986.jpg)
 
 ![1987-Bonnington-Square-Sketchbooks](https://user-images.githubusercontent.com/25156451/125212332-94915b00-e2a4-11eb-92b2-00f94714ecf6.jpg)
 
