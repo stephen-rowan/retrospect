@@ -494,7 +494,9 @@ Solomon also refers to “D.F. Pears points to this same feature by noting that 
 
 “It is important that the dynamic part of the agent's equipment may either be a valuation or a mere desire. These two things are not the same, however closely they may be connected with one another. The examples that will be used will nearly always involve a valuation, so that internal irrationality may be examined in its most extreme and striking form.” \(Pears, 1982, p.158\).
 
-### Definition of Evaluate. :OU:AA308:
+### Definition of Evaluate. 
+
+OU:AA308:
 
 Evaluate - verb \[with obj.\]
 
@@ -522,6 +524,60 @@ See also
 {% embed url="http://www.rbjones.com/rbjpub/philos/epistem/rbj019.htm" %}
 
 Three Kinds of Judgement
+
+### Solomon and Brentano’s theory of judgement. 
+
+OU:AA308:Emotion:
+
+Robert Solomon via Husserl seems to be following Brentano’s theory of judgement in respect of emotions as evaluative judgements.
+
+See \[\[http://plato.stanford.edu/entries/brentano-judgement/\]\[Stanford entry on theory of judgement\]\]
+
+“Brentano's leading question was a psychological one: What happens in our minds when we make a judgement? Introspectively it is an act quite similar to making a decision, although its behavioural effects are different. “
+
+Brentano’s theory of judgement can be stated as …
+
+The foundational thesis \(1\) concerns the relation between judgement and predication. \(1\) Judgements require that something \(some object\) is given in presentation, but not that something is predicated of it.
+
+The polarity thesis \(2\) determines the place of negation in judgements. \(2\) Judgements are either positive or negative, depending on whether the presented object is accepted as existing, or rejected as fictitious or non-existing.
+
+The existential thesis \(3\) determines a canonical form in which all judgements can be expressed. \(3\) Judgements are best expressed in sentences of the form “A exists” or “A does not exist”, where the term “A” denotes the presented object which is also the object of the judgement and the rest of the sentence indicates its quality.
+
+“Of course, these claims must be seen in the context of Brentano's overall theory of mental phenomena, in particular in the context of his account of intentionality. “
+
+“ …it is worth mentioning that the term “object of judgement”, as it is used here, always refers to an entity which is distinct from the judgement itself and not contained in it. “
+
+“It is also assumed here that judgements have a content or subject matter, which is not separable from the act itself, and which Brentano originally called the “immanent objectivity of a mental phenomenon”.”
+
+“The content of a judgement must not be conceived as a propositional entity, however, since Brentano explicitly denied that judgements have such entities as their contents.”
+
+“According to Husserl judgements are intentional acts with a propositional content directed at proposition-like entities which he calls Sachverhalte. “
+
+“Existential judgements show that predication is not necessary for forming a judgement, but neither is it sufficient according to Brentano. Many philosophers have assumed that a predicative judgement is nothing more than “the putting together of two ideas”—in the case of “S is P”—or “the separating of two ideas”—in the case of “S is not P”. This view is sometimes called the “combinatorial theory of judgement”, and Brentano was not the first to point out the deficiencies of this view. He refers to John Stuart Mill who already denied that judgements arise from a habit of associating or dissociating ideas. What Brentano adds to Mill's criticism is a precise diagnosis of the mistake: the combinatorial theory tries to locate the characteristic feature of a judgement in its content instead of locating it in its quality. When we combine a subject- and a predicate-term we just form a more complex idea which is again the content of a presentation. What is still missing is the qualitative moment of acceptance or rejection \(see Psychology, p.221\).”
+
+#### Brentano’s existential thesis
+
+“Brentano's third thesis says that all simple judgements \(that involve only a simple act of judging\) can be expressed in sentences of the form “A exists” or “A does not exist” \(or “A's exist” and “A's do not exist” respectively\). This thesis marks the contrast to all propositional theories of judgement. Propositional theories assume that a complete sentence \(or a that-clause\) is needed for expressing the content of a judgement. “
+
+“On Brentano's theory, by contrast, only a simple or complex term is needed to express the content of a judgement, and hence a complete sentence can express both the content and the quality of a judgement. In making this claim, Brentano relies on the distinction between categorematic and syncategorematic expressions, i.e., between terms that purport to denote entities, and expressions like “is”, “and”, “or”, etc. that do not. The former specify the content of a judgement, whereas the latter are used for specifying its quality. “
+
+“While Frege treated complete sentences as a basic unit of significance, for Brentano the basic unit of significance are singular and general terms. This focus on terms, rather than sentences, makes Brentano’s logic semantically conservative. Even so, logical rigor can be achieved also within this framework. “
+
+“A specific strand in this history is formed by theories making use of abstract objects corresponding to complete sentences. Here Brentano’s theory stands out as an opponent that eschews such objects in its ontology. The debate about his so-called ‘reism’ divided Brentano’s pupils and became a formative element in the so-called Austrian tradition of philosophy in which Brentano plays the counterpart to Bolzano \(see Rojszczak & Smith 2003, Rollinger 2004\).”
+
+“From a systematic point of view, the main question remains why one should adopt Brentano’s theory instead of following the now established view that in judging we acquire beliefs with a propositional content. Several possible routes can be explored here. One avenue is opened up by the claim that accepting a proposition is a reflective mental operation that involves more than just believing something to be the case \(see Cohen 1992\). “
+
+"Accordingly, the basic act of belief-formation might be a process that is more adequately explained by a non-propositional theory following Brentano’s lines. “
+
+“Another issue that invites further inquiry is the relation between the intentional character of mental phenomena and the nature of judgement.“
+
+“Brentano’s explanation of intentionality is often criticized as being confused and incomplete. This criticism overlooks that his theory of judgement may hold the key for resolving some of the problems that his account of intentionality creates \(see Chrudzimski 2001\). “
+
+“An equally large area of research is opened up by the relation between the concepts of judgement and truth. Brentano used his theory of judgement in arguing against the classical correspondence theory of truth, replacing it by an epistemic account \(see Wolenski 1989\). “
+
+“In contemporary terms, Brentano’s strategy may be reconstructed as defining truth along deflationist lines, while proposing an epistemic criterion for separating true and false judgements \(see Parsons 2004\). “
+
+“Finally, it is noteworthy that Brentano’s theory of judgement draws a close parallel between the correctness of our judgements and the correctness of our emotional attitudes, which could be taken as a starting point for exploring how epistemic and moral virtues are connected.“
 
 
 
