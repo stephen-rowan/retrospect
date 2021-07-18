@@ -114,3 +114,50 @@ Source as above
 
 The context of both tirades is a Bill proposed by Wilberforce to fine slave-owners for mistreatment of their slaves. Cobbett is angered at what he perceives as double standards, he also sees a pattern of moral hypocrisy in Protestantism in general.
 
+### The Society for the suppression of vice 
+
+![](../.gitbook/assets/2021-07-18-1-.png)
+
+The society for the suppression of vice
+
+"_The object of this society is the prosecution and punishment of those who publish works, either blasphemous in their nature, or otherwise destined to injure the cause of morality or religion.The numerous convictions that have been made in the last year alone, are sufficient to prove the utility of this establishment_"
+
+Vice-Presidents incl: William Wilberforce
+
+pg.96, The annual subscription charities and public societies in London, 1823, John Murray \([link](https://archive.org/details/annualsubscript00unkngoog/page/n137/mode/2up)\)
+
+A letter to the society for the suppression of vice \(self-styled and by no-one else\). On their prosecution of the editor and his wife ...\(link\) pg.181, The Republican, Feb. 25th 1820, Richard Carlile \(publisher of Tom Paine's The Rights of Man\).
+
+I believe Wilberforce was sincere in his beliefs and can be credited for working tirelessly to abolish the Slave Trade. His record on manumission, involuntary labour \(Sierre Leone\) and the "suppression of vice" is more ambigious. I think it is misleading to just look to Parliament at a time when large urban areas were not represented at all. As for woman's suffrage and rights being "virtually unheard of" that is patently misleading, at least in the 1820s. Look at Anna Wheeler, Frances \(Fanny\) Wright, Eliza Macauley, Frances Morrison and others associated with Robert Owen for example. Unheard of in Parliament certainly, but not in the real world. Abolitionists themselves were accused of Jacobinism in the 1790s. What was at stake for many was the threat to property rights so sacred for mercantile society.
+
+"_Slavery is such an atrocious debasement of human nature, that its very extirpation, if not performed with solicitous care, may sometimes open a source of serious evils._" Benjamin Franklin, An Address to the Public, November 1789
+
+To add some context to the above and to be fair to Wilberforce below is a list of all the organisations he was involved with in 1823 \(in addition to the suppression of vice\). An interesting mix of philanthropy, charity, punishment and censorship.
+
+Source : The annual subscription charities and public societies in London, 1823, John Murray
+
+* London Hiberian Society - establishing schools distributing
+
+  Bibles in Ireland \(Vice-President\) pg.13
+
+* Society for the relief of poor Africans and Asiatics -
+
+  Schools, Bibles, Repatriation \(President\) pg.16
+
+* Seaman's Hospital - \(Vice-President\) pg.24
+* Institution for the cure and prevention of contagious diseases in the metropolis - \(Vice-President\) pg.37
+* Asylum for the deaf and dumb - Pensions for over 40s - \(Vice-President\) pg.42
+* London fever hospital - \(Vice-President\) pg.44
+* Society for the support and encouragement of Sunday schools throughout the British Dominions - \(Vice-President\) pg.52
+* St Anne's Society School - Charity School \(President\) pg.59
+* Irish Society of London - Education of poor Irish in London \(Vice-President\) pg.75
+* Society for the suppression of mendacity - regulation of street begging, punishment of vagrants - \(Steward\) pg.95
+* Society for the improvement of prison discipline and for the reformation of juvenile offenders - a real live issue in 
+
+  1823 because of a bad youth street gang problem ! - \(Vice-President\) pg.96
+
+* London Female Penitentiary - Bible education leading to domestic service \(Chairman\) pg.102
+* Yorkshire Society - noblemen and gentlemen of York- \(Steward\) pg.137
+* Society for improving the condition of children and others employed by chimney sweepers - \(Vice-President\) pg.141
+* African Institution - Promoting civilisation in Africa, suppressing slavery - \(Vice-President\) pg.142
+
