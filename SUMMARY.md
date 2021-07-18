@@ -12,7 +12,7 @@
 
 ## 2011
 
-* [Writing & Notes from 2011](2011/writing-from-2011.md)
+* [Writing & Notes from 2011](2011/writing-and-notes-from-2011.md)
 
 ## 2010
 
