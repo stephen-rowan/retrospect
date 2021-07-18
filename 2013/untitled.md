@@ -338,6 +338,16 @@ Anyway I found this article may be an interesting read for those interested.
 
 This entry was posted in Philosophy and tagged Aristotle, Hilary Putnam, Martha Nussbaum on Monday, June 17, 2013. Edit
 
+### Daniel Dennett on Tools To Transform Our Thinking.
+
+Wordpress:Blogpost:
+
+Daniel Dennett on Tools To Transform Our Thinking. I just watched this talk given by Dennett at Royal Geographical Society as part of the launch of his new book ‘Intuition pumps and other tools for thinking’. Dennett coined the term intuition pump back in 1981 to broadly indicate thought experiments or analogies that cause \(or pump\) common-sense intuitions or conclusions. Dennett talks for about 30 minutes and takes questions for another 40 minutes. I don’t agree with Dennett on everything – for example he seems to imply that humans as a species are progressing in terms of cognitive thinking. I would take issue with that as a teleological presentation of evolution. Nevertheless it is an interesting talk and Dennett is a good speaker. I was struck by his statement that “All serious thinking is interpersonal.” ; which I take to mean that thinking needs another object \(or person\) to take itself outside of the thinkers ingrained beliefs. 
+
+{% embed url="https://www.youtube.com/watch?v=EJsD-3jtXz0" %}
+
+This entry was posted in Philosophy and tagged Daniel Dennett on Wednesday, June 19, 2013. Edit
+
 
 
 
