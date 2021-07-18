@@ -54,3 +54,23 @@ One of the first 18th century figures to present a 'psychology' of the sublime w
 
 Edmund Burke's 'A Philosophical Enquiry into the Origin of Our Ideas of the Sublime and Beautiful' \(1757\) was reviewed and popularised in German in 1758 by Moses Mendelssohn \(Grandfather of the composer Felix Mendelssohn\). Immanuel Kant was a 'Magister' of Rhetoric at the University of Königsberg in the 1760s. He spent most of his time teaching and preparing lectures which were very popular and successful with the students \(such as Herder\).
 
+### Anna Laetitia Barbauld \(1743-1825\) 
+
+Her poem 1811 is fascinating, imaging the passing of England and the future rise of America.
+
+Reading
+
+"_Where wanders Fancy down the lapse of years Shedding o'er imaged woes untimely tears? Fond moody Power! as hopes as fears prevail,_"
+
+it is an interesting contrast with Childe Harold. Also reminds me of After London by Richard Jefferies and 'The Last Man' by Mary Shelley.
+
+Even premonitions of TS Eliot ...
+
+Compare :
+
+"_But who their mingled feelings shall pursue When London's faded glories rise to view? The mighty city, which by every road, In floods of people poured itself abroad_;"
+
+with :
+
+"_Unreal City, Under the brown fog of a winter dawn, A crowd flowed over London Bridge, so many, I had not thought death had undone so many._"
+
