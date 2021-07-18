@@ -30,7 +30,9 @@ This entry was posted in Philosophy and tagged Guy Debord, Situationist, The Soc
 
 ### Allegory in Plato’s Republic. :Wordpress:Blogpost:
 
-“I WENT down yesterday to the Piraeus with Glaucon the son of Ariston, that I might offer up my prayers to the goddess ; and also because I wanted to see in what manner they would celebrate the festival, which was a new thing. I was delighted with the procession of the inhabitants; but that of the Thracians was equally, if not more, beautiful. “\(Plato, The Dialogues of Plato translated into English with Analyses and Introductions by B. Jowett, M.A. in Five Volumes. 3rd edition revised and corrected \(Oxford University Press, 1892\). Chapter: BOOK I\)
+“_I WENT down yesterday to the Piraeus with Glaucon the son of Ariston, that I might offer up my prayers to the goddess ; and also because I wanted to see in what manner they would celebrate the festival, which was a new thing. I was delighted with the procession of the inhabitants; but that of the Thracians was equally, if not more, beautiful._ “
+
+\(Plato, The Dialogues of Plato translated into English with Analyses and Introductions by B. Jowett, M.A. in Five Volumes. 3rd edition revised and corrected \(Oxford University Press, 1892\). Chapter: BOOK I\)
 
 In the first few lines of Plato’s Republic Socrates relates his journey to the port town of Piraeus. Piraeus – a natural harbour where the Athenian fleet moored prior to the Peloponnesian War, connected to Athens itself by the Long Walls. Socrates journeys down to Piraeus, kateben, which the scholar Allan Bloom noted as an allusion to Odysseus’ journey into the underworld. The descent of the word katabasis may be contrasted with the ascent of the word anabasis. Anabasis can refer to an expedition from a coastline into the interior of a country while katabasis moves in the opposite direction from the interior to the coast.
 
