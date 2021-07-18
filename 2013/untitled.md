@@ -160,7 +160,13 @@ Pro. Dr. Thomas Metzinger: \(\*1958 in Frankfurt am Main, Germany\) is currently
 
 This entry was posted in Philosophy and tagged Thomas Metzinger on Sunday, June 9, 2013.
 
+### Kathy Acker interviews William S. Burroughs.
 
+Wordpress:Blogpost:
+
+{% embed url="https://www.youtube.com/watch?v=axUc6Tt6SVQ" %}
+
+This entry was posted in Art and tagged Kathy Acker, William S. Burroughs on Monday, June 10, 2013.
 
 
 
