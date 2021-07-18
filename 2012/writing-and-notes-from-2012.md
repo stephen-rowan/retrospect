@@ -294,7 +294,17 @@ I have encountered Zizek last year while studying the speeches of Robespierre \(
 
 “he maps out how people relate to the spectacle on a day to day and moderately individual way that Marxists tend to lump into the catch all of ‘alienation.’” – I support your view and would extend that to ‘open’ discourse in general – to unpack catch-all phrases.
 
-From the reddit : Discussion for Chapter 2: The Commodity as Spectacle This entry was posted in Philosophy and tagged Guy Debord, Situationist, The Society of the Spectacle on Friday, December 21, 2012. Edit
+From the reddit : Discussion for Chapter 2: The Commodity as Spectacle 
 
+This entry was posted in Philosophy and tagged Guy Debord, Situationist, The Society of the Spectacle on Friday, December 21, 2012. Edit
 
+### Justice with Michael Sandel. 
+
+Wordpress:Blogpost:
+
+Looking at the question of TMA03 briefly there seems to be a more straightforward side which is the issue under discussion \(that of abortion\) and a more complex consideration which is how to use analogy. I think the question can seem difficult – because it is framed in this consideration of ‘analogical’ argument. I think the solution is to work through the course book considering how analogy particularly with reference to ethical issues is used. In Other resources on the OU website is a link to useful beginners guide to Justice which I have found helpful. [http://www.justiceharvard.org/2011/03/episode-01/](http://www.justiceharvard.org/2011/03/episode-01/) Episode 01 – Justice with Michael Sandel
+
+www.justiceharvard.org Now it’s your turn to hone your critical-thinking skills and explore the moral decisions we all face in our lives. Check out this short introduction video and begin your journey. 
+
+This entry was posted in Philosophy and tagged Ethics, Justice, Michael Sandel on Wednesday, December 26, 2012. Edit
 
