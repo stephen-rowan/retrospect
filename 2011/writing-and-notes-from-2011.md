@@ -116,7 +116,7 @@ The context of both tirades is a Bill proposed by Wilberforce to fine slave-owne
 
 ### The Society for the suppression of vice 
 
-![](../.gitbook/assets/2021-07-18-1-.png)
+![The Society for the suppression of vice - London, 1823, John Murray](../.gitbook/assets/2021-07-18-1-.png)
 
 The society for the suppression of vice
 
