@@ -10,6 +10,10 @@
 
 * [Writing & Notes from 2014](2014/2014.md)
 
+## 2012
+
+* [Untitled](2012/untitled.md)
+
 ## 2011
 
 * [Writing & Notes from 2011](2011/writing-and-notes-from-2011.md)
@@ -46,8 +50,4 @@
 ## 1983
 
 * [1983 Artworks](1983/untitled.md)
-
-## 2012
-
-* [Untitled](2012/untitled.md)
 
