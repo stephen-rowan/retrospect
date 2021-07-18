@@ -52,5 +52,13 @@ Socrates defense of Justice is also by analogy with the health of tripartite sou
 
 Lecture 4 introduces Plato’s Republic and its many meanings in the context of moral psychology, justice, the power of poetry and myth, and metaphysics. The Republic is also discussed as a utopia, presenting an extreme vision of a polis–Kallipolis–Plato’s ideal city.” 
 
-This entry was posted in Philosophy and tagged A222, Allegory, Analogy, Plato on Monday, January 7, 2013. Edit
+This entry was posted in Philosophy and tagged A222, Allegory, Analogy, Plato on Monday, January 7, 2013. 
+
+###  'Reading Marx’s Capital’. 
+
+Wordpress:Blogpost:
+
+I have been watching Prof. David Harvey’s excellent series of lectures on ‘Reading Marx’s Capital’ \(link\). This has reinforced my view that territories of expertise are essentially power relations. Where some kinds of expertise appear neutral \(such as the sciences\) their use or utility is not. The issue of expertise seems to be haunting philosophy at present – with much chatter about the ‘scientific turn’. Typically framed as statements such as “Who needs ethics when everything can be explained by bio-ethics” or “who needs philosophy of mind when neurobiology will provide the answers”. My response may be \(I am still considering this\) to require a dialectic of expertise. What is the expert trying to achieve – is it descriptive or prescriptive etc. It is naive to think such paradigms are neutral. 
+
+This entry was posted in Philosophy and tagged Karl Marx on Tuesday, January 8, 2013.
 
