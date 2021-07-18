@@ -617,15 +617,46 @@ Crusty bread Chicken borscht Apple crumble and custard
 
 ### Who do you think you are ? How to construct an identity.
 
-**\*** 1 The basics 
+#### 1 The basics 
 
-**\*\*** 1.1 'factual' identity 
+##### 1.1 'factual' identity 
 
-_**\***_ 1.1.1 documentary identity 
+###### 1.1.1 documentary identity 
 
-_**\***_ 1.1.2 biological identity 
+###### 1.1.2 biological identity 
 
-_**\***_ 1.1.3 Do individuals exist ? Are you alone ? **\*\*** 1.2 beliefs _**\***_ 1.2.1 geographical identity - how to carve up the world ? _**\*\***_ 1.2.1.1 actual **\*** 1.2.1.1.1 local **\*** 1.2.1.1.2 national **\*** 1.2.1.1.3 regional **\*** 1.2.1.1.4 global **\*** 1.2.1.1.5 extraterrestrial _**\*\***_ 1.2.1.2 virtual **\*** 1.2.1.2.1 place **\*** 1.2.1.2.2 space **\*** 1.2.1.2.3 dimension **\*** 1.2.1.2.4 extension _**\***_ 1.2.2 social identity - friends or families ? _**\***_ 1.2.3 sexual identity _**\***_ 1.2.4 semantic identity _**\***_ 1.2.5 hybrid identities - connecting the dots _**\***_ 1.2.6 Others - the identity of indiscernibles _**\*\***_ 1.2.6.1 'I' _**\*\***_ 1.2.6.2 'We' _**\*\***_ 1.2.6.3 'Them' _**\*\***_ 1.2.6.4 'Null' - what is left over ? **\*** 2 Construction / destruction / drift **\*** 3 Activation **\*** 4 Maintenance **\*\*** 4.1 Authenticity - keeping your receipts _**\***_ 4.1.1 Value / values _**\***_ 4.1.2 Provenance **\*** 5 Function - things to do with your new toy **\*** 6 Retirement/obsolescence/death **\*** 7 Legacy
+_**\***_ 1.1.3 Do individuals exist ? Are you alone ? 
+**\*\*** 1.2 beliefs _
+**\***_ 1.2.1 geographical identity - how to carve up the world ? _
+**\*\***_ 1.2.1.1 actual 
+**\*** 1.2.1.1.1 local 
+**\*** 1.2.1.1.2 national 
+**\*** 1.2.1.1.3 regional 
+**\*** 1.2.1.1.4 global 
+**\*** 1.2.1.1.5 extraterrestrial _
+**\*\***_ 1.2.1.2 virtual 
+**\*** 1.2.1.2.1 place 
+**\*** 1.2.1.2.2 space 
+**\*** 1.2.1.2.3 dimension 
+**\*** 1.2.1.2.4 extension _
+**\***_ 1.2.2 social identity - friends or families ? _
+**\***_ 1.2.3 sexual identity _
+**\***_ 1.2.4 semantic identity _
+**\***_ 1.2.5 hybrid identities - connecting the dots _
+**\***_ 1.2.6 Others - the identity of indiscernibles _
+**\*\***_ 1.2.6.1 'I' _
+**\*\***_ 1.2.6.2 'We' _
+**\*\***_ 1.2.6.3 'Them' _
+**\*\***_ 1.2.6.4 'Null' - what is left over ? 
+**\*** 2 Construction / destruction / drift 
+**\*** 3 Activation 
+**\*** 4 Maintenance 
+**\*\*** 4.1 Authenticity - keeping your receipts _
+**\***_ 4.1.1 Value / values _
+**\***_ 4.1.2 Provenance 
+**\*** 5 Function - things to do with your new toy 
+**\*** 6 Retirement/obsolescence/death 
+**\*** 7 Legacy
 
 
 
