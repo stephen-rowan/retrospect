@@ -472,6 +472,28 @@ George Ainslie in Breakdown of Will \(2001\) has explored what happens in modern
 
 It is notable that the UK Government now has a behavioural insights team, often called the 'Nudge Unit'.
 
+### Beliefs and intentional objects. 
+
+OU:AA308:Emotion:
+
+In paragraph 6 of Reading 2 Solomon attempts to determine some similarities and some differences between a belief and an intentional object.
+
+Solomon states a distinction between a fact \(John stole my car\) which is explicit and true/false \(a true/false description or in logical terms a sound/unsound proposition\) and an intentional object that is opaque.
+
+But what distinguishes an opaque intentional object from the assumption of a valid belief? That is a belief that makes logical sense \(that John stole my car\) but may be unsound when the facts are known.
+
+Solomon refers to Sartre “what emotions are ‘about’ by saying that their object is ‘transformed’”. I understand this reference, following Solomon’s logic, as implying an emotion \(which is an act of judgement\) will judge the intentional object as a fact. Why ‘as a’ fact? Because what other transformation can be implied here other than a change in a property of the intentional object? Additionally what other properties does the statement ‘that John stole my car’ \(that is the opaque content of my emotion according to Solomon\) have apart from the premises and propositional structure of a factual statement?
+
+In this respect I take opaqueness to mean that there has been some kind of rush to judgement \(‘that John stole my car’\) or put another way treating a valid proposition as a sound proposition \(presuming the facts of the case\).
+
+However following the reference to Sartre I find in the Stanford entry on Sartre’s Existentialism - “In Sartre’s analysis of emotions, affective consciousness is a form of pre-reflective consciousness, and is therefore spontaneous and self-conscious.” And “A voluntary act involves reflective consciousness that is connected with the will; spontaneity is a feature of pre-reflective consciousness.”. So for Sartre emotions are pre-reflective, spontaneous while remaining self-conscious. An emotion such as anger is not an act of judgement but an immediate pre-judgement. It is hard to determine in Sartre what kind of self-consciousness would be pre-reflective as self-consciousness seems to imply a reflective act directed towards oneself \(a consciousness of\).
+
+Solomon also refers to “D.F. Pears points to this same feature by noting that it is always an ‘aspect’ of the object that is the object of an emotion.” I haven’t been able to locate the specific source Solomon refers to here – but I have located D.F.Pear’s paper ‘Motivated irrationality’ \(1982\) which discusses similar issues.
+
+“An internally irrational action is one that does not fit the factual beliefs and valuations or desires with which the agent is equipped at the time. His equipment is taken as given and no judgement is passed on it. The point is only that his action does not fit it.” \(Pears, 1982, p.158\).
+
+“It is important that the dynamic part of the agent's equipment may either be a valuation or a mere desire. These two things are not the same, however closely they may be connected with one another. The examples that will be used will nearly always involve a valuation, so that internal irrationality may be examined in its most extreme and striking form.” \(Pears, 1982, p.158\).
+
 
 
 
