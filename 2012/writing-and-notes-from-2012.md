@@ -220,5 +220,41 @@ This article is interesting – my initial impression is that it predominantly r
 
 This entry was posted in Art and tagged Outsider Art on Monday, November 26, 2012.
 
+## December 2012
+
+### The Society of the Spectacle : The Culmination of Separation.
+
+Wordpress:Blogpost:
+
+3\) The spectacle presents itself simultaneously as society itself, as a part of society, and as a means of unification. As a part of society, it is ostensibly the focal point of all vision and all consciousness. But due to the very fact that this sector is separate, it is in reality the domain of delusion and false consciousness: the unification it achieves is nothing but an official language of universal separation.
+
+I like to think of the spectacle as individuated into mindset. The “objective reality of the spectacle” are mechanisms of education, consumer habit and other false or virtual distinctions. I may objectify my desires via the spectacle and separate my subjectivity from inter subjectivity. I am objectively ‘satisfied’ but subjectively isolated. I close myself to others my mediating myself via an objective apparatus. My “unification” is a kind of possession by spectacular culture.
+
+There is also my part in the ‘utility’ of the spectacle – my career, my identity etc. I may take ‘utility’ as a given when I perceive ’presentation’ as ‘facts’. My inventions or creativity are required to be mediated via the “language of universal separation”. I literally lose sight of myself.
+
+At present I am uncertain how Debord might conceive of self and whether he means to stress that the self is always an illusion mediated by personal identity \(An idea that can be traced back to Hume\). Perhaps this will become clear as discussions proceed. At present I have in mind Levinas’s ontology of self that suggests we are grounded in the Other. We become individual humans but we choose individualism. Our original concern is a disinterested one for the Other. To me this suggests a certain openness and receptiveness in relations of identity. Whether Debord has anything like this in mind is another matter.
+
+By ‘objectively satisfied’ I was referring in the main to thesis 5 “It is a worldview that has actually been materialized, that has become an objective reality.”. We confuse the objectivity of the material world and its artifacts, products etc with a conceptual objectivity. So when we buy a car \(an objective fact\) we think we buy a dream \(delusion\). In the same vein we confuse utility with interpretation. I use the car \(utility\) – cars are good \(the interpretation\). There is also the existential tension between objective or rational reasoning and subjectivity or more pertinently inter subjectivity. I am unsure whether Debord is influenced by existentialist ideas or if he is to what extent.
+
+Levinas has some similarities with psychological hypothesises of individuation. But his philosophy concerns being or ontology. He is concerned by what grounds us once we are thrown into life \(I believe Heidegger was an influence here\). Levinas philosophy is essentially a moral ontology – he suggests we are born into a concern for the Other. I think he has in mind the experience of a child’s development dependent on a social relationship that is loving \(if we are fortunate\) with others. His project seems to be to reorient moral concern from rational models \(like Kant for example\) to an original emotional concern for the Other. A recognition of our original concern. That original concern is a disinterested one for the Other in the sense of a general concern. We enact our concern face-to-face with the Other as a kind of emotional communication. That is my reading.
+
+I think of the Other as undifferentiated humanity – I would tend to interpret this as real or immediate rather than symbolic. I differ from Levinas in some of his additional concepts of an infinite concern that is embodied as I sense a theistic subject lurking there. A lot of these ideas were published in Totality and Infinity in 1961 – it is quite likely Debord was aware of these concepts. Though I suspect he might have disparaged Levinas as a closet theist. In my opinon the concept of the Other is really a further development of Husserl’s inter subjectivity.
+
+Of course a spectacle of the Other could deceive our concern. I think this is why Levinas emphasises the face-to-face or emotional immediacy rather than an abstract symbolic subject of concern. I don’t think Levinas quite fits with Debord – but I find it interesting to compare them.
+
+I am interested in Levinas but I am uncertain whether his philosophy is sustainable in a hostile environment. Though Levinas is always a timely reminder of the importance of empathy. I really brought the Other in to consider what Debord’s concept of personal identity \(or non-identity\) might be. I agree with you on liberalism’s rationalisations of ethics – or ‘buy in’ ethics \(joke\). I tend to see politics arising from trade, rather than politicians protecting business, they are ‘produced’ by capitalism.
+
+For me it is about conscious detournement rather than passive critique. We are where we are. What threads we can pick out of the weave of the spectacle consitute our play. Or we can critique away use of redditt in a solipsistic manner and return to our alienation. We are already compromised. “In analyzing the spectacle we are obliged to a certain extent to use the spectacle’s own language,” \(11, 1\).
+
+Years ago one of the first situationist texts I encountered was Formulary for a New Urbanism \(Chtcheglov, 1953\). The evocation of the urban experience really struck a chord with me with lines such as …
+
+We are bored in the city, we really have to strain to still discover mysteries on the sidewalk billboards, the latest state of humor and poetry,
+
+Darkness and obscurity are banished by artificial lighting, and the seasons by air conditioning.
+
+A mental disease has swept the planet: banalization. Everyone is hypnotized by production and conveniences — sewage systems, elevators, bathrooms, washing machines.
+
+From the reddit Discussion for Chapter 1: The Culmination of Separation This entry was posted in Philosophy and tagged Guy Debord, Situationist, The Society of the Spectacle on Thursday, December 20, 2012.
+
 
 
