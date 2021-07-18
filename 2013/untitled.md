@@ -609,6 +609,12 @@ Baked fish in salt Lemon/cumin potatoes Spinach pine nuts Baked Fennel Chicken b
 
 Crusty bread Chicken borscht Apple crumble and custard
 
+### A brief overview of logics 
+
+**Classical logic** – often called first order broadly comprises propositional logic \(or roughly ‘sentential’ expressed in sentences\) and predicate logic \(expressed in quantified formal symbols\). Predicate logic is quantified according to absolute constraints of the existential \(‘there exists’\) and universal \(‘for all’\). Predicate logic is called ‘explosive’ in that logical consequences or steps are divided \(exploded\) in a bivalent tree pattern. One central concept of consistency in predicate logic that disallows contradictions is ex contradictione quodlibet \(ecq\) or ‘from a contradiction anything follows’. This rule is often called the law of non-triviality \(as ecq states that any consequence of a contradiction is trivial\).
+
+**Modal logic** – primarily developed by Saul Kripke modal logic is of possibility and necessity. Modal logic in its most basic form simply adds the quantifiers ‘it is possible that’ and ‘it is necessary that’ to predicate logic. The addition of modal quantifiers to logic allows statements to be qualified by some condition. Other forms of modal logic allow the qualifications of temporality \(‘was’, ‘has’, ‘will’, ‘will always’\), the deontic \( ‘It is obligatory that p’, and ‘It is permissible that p’\), the epistemic \(‘it is known that’\) and the doxastic \(‘It is believed that’\).
+
 
 
 
