@@ -100,9 +100,9 @@ _"The whole of the colonies of America, ...must be completely revolutionised, be
 
 **Cobbett's Political Register, Volume 47, 1823, p.146**
 
-Google book copy \(link\)
+Google book copy \([link](https://books.google.co.uk/books?id=wpVCAAAAYAAJ&printsec=frontcover#v=onepage&q&f=false)\)
 
-Article comparing Cobbett and Wilberforce On Peterloo August 30th, 1823
+### Article comparing Cobbett and Wilberforce On Peterloo August 30th, 1823
 
 "But Wilberforce listen to me a bit; did you not hear of a parcel of people, who were assembled at Manchester on 16th August 1819 ? These people whom you call free British labourers.Well then these labourers had not run away from any masters. They committed no crimes or misdemeanours towards any masters. About 500 of them were, nevertheless,killed or wounded: they suffered "in life or member"."
 
