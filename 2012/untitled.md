@@ -56,6 +56,10 @@ Edmund Burke's 'A Philosophical Enquiry into the Origin of Our Ideas of the Subl
 
 ### Anna Laetitia Barbauld \(1743-1825\) 
 
+![ Detail from Nine Living Muses of Great Britain by Richard Samuel \(1779\)](../.gitbook/assets/1024px-blustockings2.jpg)
+
+Detail from Nine Living Muses of Great Britain by Richard Samuel \(1779\), from left: Elizabeth Carter, Barbauld gesturing, Angelica Kauffmann, Elizabeth Linley
+
 Her poem 1811 is fascinating, imaging the passing of England and the future rise of America.
 
 Reading
