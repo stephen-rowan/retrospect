@@ -16,7 +16,7 @@ I think this is more 'background' for the essay rather than directly relevant. I
 
 ### The eccentric Benjamin Lay 
 
-![Benjamin Lay painted by William Williams in 1790. Image from National Portrait Gallery, Smithsonian Institution, via Art Resource, New York](../.gitbook/assets/800px-benjamin_lay_painted_by_william_williams_in_1790.jpg)
+![Benjamin Lay painted by William Williams in 1790.](../.gitbook/assets/800px-benjamin_lay_painted_by_william_williams_in_1790.jpg)
 
 This is a précis of David Brion Davis's account of Benjamin Lay from 'The problem of Slavery in Western Culture', pgs. 321-325, OUP, 1966. I had never heard of this character before and thought I'd share this summary. Benjamin Lay was born a hunchback to poor Quaker parents in Colchester circa 1681. They 'bound him out' to a glovemaker, but he shortly became a sailor \(1710\). He witnessed the 'relative mildness' of 'Moslem' slavery in Turkey and compared this to the cruelty of his shipmates tales of the African Trade. He returned to England and married a hunchbacked woman called Sarah. He incited 'public disturbances' at Quaker meetings in England and also disrupted Baptist and Presbyterian services. When he decided to emigrate to America the relieved Colchester Quakers issued him a membership certificate to present at Philadelphia. However this was withdrawn before he left for his "contentious conduct" !
 
