@@ -348,6 +348,20 @@ Daniel Dennett on Tools To Transform Our Thinking. I just watched this talk give
 
 This entry was posted in Philosophy and tagged Daniel Dennett on Wednesday, June 19, 2013. Edit
 
+### TEDxSydney – David Chalmers – The Extended Mind. 
+
+Wordpress:Blogpost:
+
+{% embed url="https://www.youtube.com/watch?v=ksasPjrYFTg" %}
+
+“David Chalmers is Distinguished Professor of Philosophy and Director of the Centre for Consciousness at the Australian National University.
+
+\index{Chalmers David}Chalmers is interested in the relationship between mind, brain and reality. He is best known for formulating the “hard problem” of consciousness and for his arguments against materialism.
+
+His 1996 book The Conscious Mind: In Search of a Fundamental Theory was highly successful with both popular and academic audiences. In 2010 he gave the John Locke Lectures at the University of Oxford. These will shortly be published as his book Constructing the World . He also works on language, metaphysics, and artificial intelligence.” 
+
+This entry was posted in Philosophy and tagged David Chalmers on Wednesday, June 19, 2013. Edit
+
 
 
 
