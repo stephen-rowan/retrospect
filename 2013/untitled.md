@@ -302,6 +302,30 @@ Multiple drafts and the stream of consciousness – DANIEL C. DENNETT
 
 This entry was posted in Philosophy and tagged AA308 on Wednesday, June 12, 2013. Edit
 
+### The Mind’s Eye The science of consciousness and the soul. 
+
+Wordpress:Blogpost:
+
+“_For scientists and philosophers the idea of the soul has been out of fashion for two hundred years. But is it on its way back? Can science explain consciousness without it? Who watches the magic show that is experience?_”
+
+#### Galen Strawson
+
+[http://en.wikipedia.org/wiki/Galen\_Strawson](http://en.wikipedia.org/wiki/Galen_Strawson)
+
+“Professor of Philosophy at Reading and one of the UK’s leading public intellectuals, his original work on free will and the self has been widely influential.”
+
+#### Nicholas Humphrey
+
+“Theoretical psychologist whose books include Soul Dust. His study of primate psychology led him to a radical new theory of human consciousness.”
+
+#### David Malone
+
+“David Malone is a director and presenter of BBC and Channel 4 documentaries exploring the history and philosophy of science. His work includes Testing God and he is the author of The Debt Generation.”
+
+{% embed url="http://iai.tv/video/the-mind-s-eye" %}
+
+This entry was posted in Philosophy and tagged Consciousness, Galen Strawson on Wednesday, June 12, 2013. Edit
+
 
 
 
