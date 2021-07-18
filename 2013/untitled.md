@@ -174,9 +174,133 @@ This entry was posted in Art and tagged Kathy Acker, William S. Burroughs on Mon
 
 This entry was posted in Philosophy and tagged Martin Heidegger on Tuesday, June 11, 2013.
 
-{% embed url="https://www.youtube.com/watch?v=HMdF6ueH59s" %}
+### Daniel W. Smith – On the Sources of Normativity: A Deleuzean Account. 
 
-This entry was posted in Philosophy and tagged Martin Heidegger on Tuesday, June 11, 2013.
+Wordpress:Blogpost:Deleuze:
+
+{% embed url="https://www.youtube.com/watch?v=SPoB99C98BA" %}
+
+“Daniel W. Smith is Associate Professor of Philosophy at Purdue University and one of the world’s leading commentators on Deleuze. He is the translator of Deleuze’s Francis Bacon: The Logic of Sensation and Essays Critical And Clinical, as well as Isabelle Stengers’ The Invention of Modern Science and Pierre Klossowski’s Nietzsche and the Vicious Circle. Dr. Smith is the author of Essays on Deleuze and, most recently, the co-editor of The Cambridge Companion to Deleuze.
+
+Dr. Smith presented the following lecture, “On the Sources of Normativity: A Deleuzean Account”, at Purdue University as part of the Illuminations Lecture Series on Thursday April 4th, 2013.” 
+
+This entry was posted in Philosophy and tagged Gilles Deleuze, Kant on Tuesday, June 11, 2013. Edit
+
+### AA308 Philosophy of Mind Readings. 
+
+Wordpress:Blogpost:
+
+I’ve put together a complete list of readings from each module of AA308 in order to get an idea of who and what comes up most frequently. For preparatory reading I would choose Gilbert Ryle’s ‘Concept of Mind’, D.M.Amstrong’s ‘A Materialist Theory of the Mind’ and major works by Daniel Dennett and David Chalmers. Overall David Chalmers and Daniel Dennett are the most prominent philosophers – which is not so surprising as they represent the Duelist/Materialist divide. Hilary Putnam and David Lewis crop up again after their brief appearance in AA222. Other prominent philosophers include John Searle, Jerry Fodor and Ned Block \(of the Chinese population thought experiment fame\). I was surprised that Donald Davidson is not in the readings as his ‘radical interpretation’ is quite prominent in introductions to philosophy of mind.
+
+#### **\*** 1\) Aspects of Mind – Readings
+
+Consciousness and life – GARETH B. MATTHEWS
+
+Descartes’ myth – GILBERT RYLE
+
+The nature of mind – D.M. ARMSTRONG
+
+#### **\*** 2\) Emotion – Readings
+
+Emotion follows upon the bodily expression in the coarser emotions at least – WILLIAM JAMES
+
+Emotions and choice – ROBERT C. SOLOMON
+
+What an emotion is: a sketch – ROBERT C. ROBERTS
+
+The affect-program theory – P.E. GRIFFITHS
+
+An argument for basic emotions – PAUL EKMAN
+
+A constructivist view of emotion – JAMES R. AVERILL
+
+Justifying the emotions – GABRIELE TAYLOR
+
+Ambivalence and the logic of emotion – PATRICIA S. GREENSPAN
+
+A theory of moral sentiments – ROBERT H. FRANK
+
+What are emotions for? A new biological hypothesis – RONALD DE SOUSA
+
+#### **\*** 3\) Language and Thought – Readings
+
+Meaning – H.P. GRICE
+
+What is a speech act? – J.R. SEARLE
+
+The meaning of ‘meaning’ – H. PUTNAM
+
+All the difference in the world – T. CRANE
+
+Semantic engines: an introduction to mind design – J. HAUGELAND
+
+Cognitive wheels: the frame problem of AI – D.C. DENNETT
+
+Meaning and the world order – J.A. FODOR
+
+Representational systems – F. DRETSKE
+
+Advertisement for a semantics of psychology – N. BLOCK
+
+Holism, content similarity, and content identity – J.A. FODOR and E. LEPORE
+
+True believers: the intentional strategy and why it works – D.C. DENNETT
+
+#### **\*** 4\) Imagination and Creativity – Readings
+
+Imagination and imagery – ALAN R. WHITE
+
+Imagining and supposing – ALAN R. WHITE
+
+What is creativity? – MARGARET BODEN
+
+Creativity and constraint – DAVID NOVITZ
+
+Is imagery a kind of imagination? – GREGORY CURRIE and IAN RAVENSCROFT
+
+#### **\*** 5\) Consciousness – Readings
+
+A catalog of conscious experiences – DAVID J. CHALMERS
+
+The easy problems and the hard problem – DAVID J. CHALMERS
+
+The knowledge argument – FRANK JACKSON
+
+The conceivability of zombies – DAVID J. CHALMERS
+
+Naturalistic dualism – DAVID J. CHALMERS
+
+The bogey of epiphenomenalism – FRANK JACKSON
+
+The paradox of phenomenal judgment – DAVID J. CHALMERS
+
+Panprotopsychism – DAVID J. CHALMERS
+
+Mary and the blue banana – DANIEL C. DENNETT
+
+The ability hypothesis – DAVID LEWIS
+
+Mary’s room – MICHAEL TYE
+
+The unimagined preposterousness of zombies – DANIEL C. DENNETT
+
+Conceivability and possibility – DAVID PAPINEAU
+
+On properties and recognitional concepts – PETER CARRUTHERS
+
+The explanatory gap – JOSEPH LEVINE
+
+Phenomenal content: the PANIC theory – MICHAEL TYE
+
+The intentionality of feelings and experiences – MICHAEL TYE
+
+A problem for FOR-theories – PETER CARRUTHERS
+
+Explaining consciousness – DAVID M. ROSENTHAL
+
+Multiple drafts and the stream of consciousness – DANIEL C. DENNETT
+
+This entry was posted in Philosophy and tagged AA308 on Wednesday, June 12, 2013. Edit
 
 
 
