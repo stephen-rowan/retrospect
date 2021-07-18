@@ -62,3 +62,25 @@ I have been watching Prof. David Harvey’s excellent series of lectures on ‘R
 
 This entry was posted in Philosophy and tagged Karl Marx on Tuesday, January 8, 2013.
 
+### Aaron Swartz – 1986-2013. 
+
+Wordpress:Blogpost:
+
+“Fix the machine, not the person.”
+
+Aaron Swartz who co-authored the RSS specification at 14, helped launch Creative Commons at 15 and co-founded Reddit at 18 committed suicide last Friday. Aaron also worked with avaaz.org.
+
+Aaron was being prosecuted by the U.S. Attorney for Massachusetts with wire fraud, computer fraud, unlawfully obtaining information from a protected computer. Aaron had ‘stolen’ JSTOR articles as a protest against JSTOR charging large fees for access to these articles and not compensating academic authors . JSTOR later settled with Aaron in 2011. JSTOR released this statement expressing regret at the further federal prosecution .
+
+He was facing up to 35 years in jail for this crime.
+
+Tributes to Aaron have come from Tim Berners-Lee, Cory Doctorow, Larry Lessig \(professor and founder of Creative Commons\), the Electronic Frontier Foundation and the W3C \(World Wide Web Consortium\).
+
+Here is Aaron in his own words speaking about internet freedom
+
+{% embed url="http://www.youtube.com/watch?feature=player\_embedded&v=Fgh2dFngFsg\#!" %}
+
+Academics are posting their papers online as PDFs, in tribute to Aaron Swartz, and providing links on Twitter using the hashtag \#pdftribute 
+
+This entry was posted in Technology and tagged Copyright, Creative Commons on Thursday, January 17, 2013. Edit
+
