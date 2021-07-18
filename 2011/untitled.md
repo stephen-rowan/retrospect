@@ -38,3 +38,9 @@ Of England ..."_...a country administered for the sole benefit and glory of betw
 
 I wonder how far national identity determines a view of Napoleon and is it impossible to write anything objective about him ?
 
+## December 2011
+
+### FT Article : Guilt and Glory, the legacy of Empire 
+
+In the wake of recent political debates about the legacy of the British Empire and how it should be taught in schools, there has been much written in the press about 3 recent books by Jeremy Paxman, Richard Gott and Kwasi Kwarteng on the subject.This FT article does a good job of comparing the books.Not directly relevant to TMA03, but I found it interesting food for thought.
+
