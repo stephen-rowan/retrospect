@@ -116,5 +116,39 @@ My first Sci Fi read and the first 'Adult' book I read was George Orwell's '1984
 
 My next was probably 'War of the Worlds' by H.G.Wells, the opening line still sticks in my head "No one would have believed in the last years of the nineteenth century that this world was being watched keenly and closely by intelligences greater than man's and yet as mortal as his own." The first 'modern' Sci Fi book I read was Iain M Bank's 'The Player of Games'.
 
+### Iain M.Banks 
+
+I think Banks has a sometimes disconcerting tendency to radically shift tempo and even genre in the Culture books. But once I accepted this I was content to be surprised by the next one to read. 'Excession' is a a real 'Techno' Sci-Fi book which imaginatively conveys the speeded up alternative reality of the 'Minds' and their 'servant' drones. While 'Matter' reads almost like a fantasy book rather than Sci Fi at times. I too found, in the 90s, 'Use of Weapons' a bit slow and boring after 'Consider Phlebas' and the classic \(in my view\) 'Player of Games'. But now a few years later I might return to 'Use of Weapons' with the hindsight of his later books.
+
+### Is there a term for texts in which multiple storylines overlap? 
+
+.. and interrelate in non-overt ways in which the characters are not necessarily aware of their connections to other characters in the work as a whole? by dildo\_\_bagginsin literature \(Reddit\)
+
+The term 'Parallel Narrative\(s\)' comes to mind - examples include 'The Hours' by Michael Cunningham. But perhaps this term by itself is not rich enough to describe more nuanced inter-relationships between storylines ?
+
+Although it does not fit completely, your mention of 'in the same narrative world', 'don't overlap' and 'like Star Wars' makes me think of Epic Poetry.
+
+Star Wars, even though its not poetry, did \(in 1977\) ... 
+
+Begin 'in medias res' ... at a point midway or towards the end of a story. 
+
+Had a vast setting, many nations, the world or the universe. 
+
+Begins with an invocation to a muse "A long time ago in a galaxy far, far away...." 
+
+Begins with a statement of the theme \(as above\). 
+
+Features long and formal speeches \(like the speech on the use of 'the force'\). 
+
+Shows divine intervention on human affairs \(at a stretch 'The Force'\) 
+
+Features heroes that embody the values of the civilization \(eg. Darth Vader\)
+
+The above features of epic poetry come from the wikipedia entry on Epic Poetry.
+
+Stars Wars does not seem to fit the 'nested' story paradigm. I always thought of it as a form of 'Epic'. But I have only watched the early films !
+
+Epic typically doesn't have parallel narratives though - but sometimes has Ekphrasis which is a kind of narrative within a narrative. Albeit a narrator describing a story portrayed on an object within the story \(!\).
+
 
 
