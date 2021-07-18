@@ -197,5 +197,17 @@ The Quakers developed a peculiar culture of perfectionist self-questioning for t
 
 Quakers were also intimately linked with the early expansion of sugar cultivation and the African trade. \(ibid. pg.303\) Spiritual conscience conflicted with commercial exploitation.
 
+### Stendhal and Napoleon 
 
+Stendhal admires Constant's work on Tyranny \(source 'Letters to Pauline'\) and has some sympathy for De Stael's camp. As he refutes her 'slander' the essence of what the 'great soul' effected is revealed; it is the hopes and dreams of the detested and outcast.
+
+Stendhal at one point denies Napoleon's Machiavellian and at another suggests it; when does naivety become arrogance ? Stendhal also regrets the loss of passion that existed after Napoleon's time, how people stood out and then hid away.
+
+Stendhal's life of Napoleon at times resembles an internal dialogue. Napoleon slips from his fingers; as though the Napoleon he imagines does not exist \(like the satirical work that also suggested the non-existence of Napoleon\).
+
+Then again Napoleon exists in the minds of men, a mirror of their desires and wishes. Stendhal is Napoleon. Is his love of Napoleon also an /amour propre/, a self-love. Stendhal 'falls with Napoleon' and he follows his feelings.
+
+So intense that the happiest moments Stendhal cannot express - as at the end of his 'Life of Henry Brulard' after he crosses the Alps at Saint Bernard.
+
+Stendhal is undecided. His life of Napoleon is an internal dialogue, or perhaps a test of his thinking. He leaves the manuscript behind in Italy.
 
