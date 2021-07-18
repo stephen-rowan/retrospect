@@ -44,3 +44,9 @@ I wonder how far national identity determines a view of Napoleon and is it impos
 
 In the wake of recent political debates about the legacy of the British Empire and how it should be taught in schools, there has been much written in the press about 3 recent books by Jeremy Paxman, Richard Gott and Kwasi Kwarteng on the subject.This FT article does a good job of comparing the books.Not directly relevant to TMA03, but I found it interesting food for thought.
 
+### Physiognomy and Napoleon 
+
+Stendhal refers frequently in; his autobiography to Physiognomy, both literally, as in 'reading faces' and metaphorically as the "physiognomy of events". It seems to be a commonplace of the early 19th century and even a light-hearted pastime.
+
+Napoleon said of Physiognomy : "_we must not judge of a man by his face; we can know him only by his conduct. What countenances have I had to judge in the course of my life! What odd examples of physiognomy have come under my observation!_"
+
