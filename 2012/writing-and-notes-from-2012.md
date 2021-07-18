@@ -166,5 +166,35 @@ I wish there were more Sci Fi films as brilliant as Solaris. One of the very few
 
 His films require patience and attention, they are miles away from standard film fare in a poetic Tarkovsky Land of their own.
 
+## May 2012
+
+### A sense of place 
+
+A Sense of Place is not unique to English Literature. A Sense of Place can apply to any setting, however modern, in my view.
+
+The Sense of Place that is specific to England and English Literature has its own resonance. These are layered through with different aspects of English Culture and Society. Culture and Society is related to Place.
+
+An obvious one is Class and Politics, notably enclosure of land, or ownership of land. There are deep cultural themes related to Common Land rights. This might be apparent looking at Forest Laws or the Novels of Thomas Hardy or George Eliot or the intimate linking of personality and place in John Clare's poetry.
+
+Another is the evolution of how Landscape was aestheticised in England, particularly from the 18th century onwards. The emergence amongst the intellectual elite of the concepts of the picturesque and the gentry Landscaping their estates. There is also an exclusion element to this - as the poor were airbrushed out or romanticised.
+
+Then there is Nationalism, certainly not unique to England, but Nationalism always dresses itself in its own sense of uniqueness. This concept buttressed by reference to sacred Places of National importance, from Stonehenge, to the Moors, the Rivers \(Thames, Shakespeare's River Avon\) to iconic buildings such as St Pauls. The meaning of these places has always been in dispute and used as Landscape pawns in a political game of a Sense of Place.
+
+Nationalism slips into or perhaps developed out of ... the sacred sense of place, the mystical or mythical Albion. This is extremely resonant, Blake's Jerusalem never fails to bring a tear to an English eye. This could be read as a dangerous idea or a place of retreat for outsiders from society.
+
+An interest in Tradition and Genealogy rubs off from the Monarchical system and highlights English regional differences. In this way The West Country, London, the Fens, the Moors are all distinct places with assertive traditions.
+
+Common with many other Modern Nations is English Nostalgia for a sense of place - usually tied up with a sense of loss of innocence or glory. This Nostalgia is itself sometimes critiqued by new senses of place which create new urban sacred places \(Perhaps Dickens's London?\).
+
+There is a fuzzy \(!\) or metaphorical link between place and culture.
+
+In 'Remains of the Day' for example there is the sense of ones place - this is not simply a play on words - as in English society class has been related to where you live or even the location in the house where you work \(eg Upstairs/Downstairs\).
+
+The 'Remains of the Day' also focuses on a particular place in English history - the end of Empire and the decline of the aristocracy. I suppose this is a cultural place - but still it did happen in a specific time and place.
+
+In my view the strength of 'Remains of the day' is Ishiguro's ability to link a specific time \(and its culture/mood\) to a specific place. He suggests, even in the title, that these things shift. Only in 'The remains of the day' after WWII does the Butler fully realize how far he has lost his place.
+
+I suspect a similar blurring of the lines between time and place is happening in 'Last Orders'.
+
 
 
