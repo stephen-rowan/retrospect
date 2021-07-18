@@ -156,6 +156,8 @@ Epic typically doesn't have parallel narratives though - but sometimes has Ekphr
 
 I saw my first Tarkovsky film Stalker in the mid 80s and it made a huge impression on me. I love his attention to detail, his use of sounds \(water,dogs barking,industrial noise\) and most of all the contemplative pace of his films. I am aware Tarkovsky divides opinion, many people find his films ponderous and pretentious - I find them strangely honest and direct.
 
+![A Still from &quot;Stalker&quot;](../.gitbook/assets/2003-film-still-tarkosky-stalker-b.jpg)
+
 In 1986 I went the first week opening of his last film The Sacrifice which raises his 'long takes' to an art form, the atmosphere of the house in the film is almost a scientific study, from the highly polished floor to the clinking of glass - everything is taut - the set becomes a character. I watched it again 2 years ago with some trepidation, thinking it might have lost its magic, but no - if anything 20 years later it felt more relevant and profound as when I first saw it.
 
 The Mirror is a great film to watch, one of my favorites. It can be disconcerting as it is very much a collage of scenes, switching between characters in a Russian apartment, archive shots and dream sequences. Its very autobiographical and also a subtle commentary on 20th century Russian history.
