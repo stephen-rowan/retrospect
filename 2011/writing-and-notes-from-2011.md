@@ -183,13 +183,13 @@ A new, fascinating and poignant Guardian article on tooth analysis \(Using stron
 
 ### Early Abolitionism : Quakers 
 
-Notes on [David Brion Davies](https://en.wikipedia.org/wiki/David_Brion_Davis)'s Quakers and the Sectarian Tradition, Slavery in Western Culture, OUP, 1966
+Notes on [David Brion Davies](https://en.wikipedia.org/wiki/David_Brion_Davis)'s _Quakers and the Sectarian Tradition, Slavery in Western Culture_, OUP, 1966
 
-"Since sin was traditionally thought as a kind of slavery, and external bondage was justified as a product of sin, any change in the meaning of sin would be likely to affect attitudes to slavery." Davis, 1966, Pg.292, Quakers and the Sectarian Tradition, Slavery in Western Culture, OUP
+_"Since sin was traditionally thought as a kind of slavery, and external bondage was justified as a product of sin, any change in the meaning of sin would be likely to affect attitudes to slavery._" Davis, 1966, Pg.292, Quakers and the Sectarian Tradition, Slavery in Western Culture, OUP
 
-"When changing social and economic conditions brought a convergence of millennialism, perfectionism, and primitivism, the entire social order was seen to be based on a principle of slavery." Ibid. pg.299
+"_When changing social and economic conditions brought a convergence of millennialism, perfectionism, and primitivism, the entire social order was seen to be based on a principle of slavery_." Ibid. pg.299
 
-"Barclay did place the inward testimony of the Spirit above the authority of Scripture, reason, or external law, and thus tended to undermine the traditional foundations of social discipline." Ibid. pg.301
+"_Barclay did place the inward testimony of the Spirit above the authority of Scripture, reason, or external law, and thus tended to undermine the traditional foundations of social discipline_." Ibid. pg.301
 
 This passage refers to Robert Barclay's 'An Apology for the True Christian Divinity: Being an Explanation and Vindication of the Principles and Doctrines of the People called Quakers' \(1678\). Barclay approved of personal responsibility but not the "wild notions" of those of the Munster Anabaptists who would "seek to make all things common, and would force their neighbours to share their estates with them.". Ibid. Summary of pg.302
 
