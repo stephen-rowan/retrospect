@@ -20,6 +20,8 @@
 
 ![2005-04-05-2005-Forever-Blowing-Bubbles-Film-Plan](../.gitbook/assets/2021-07-18-7-.png)
 
+![Super 8 Film Still](../.gitbook/assets/2005-05-bubbles2.jpg)
+
 ## October 2005 
 
 ### CapitalA. Visit to the V and A.
