@@ -86,6 +86,8 @@ I found this documentary \(link\) a gentle transition to some of the concerns of
 
 ### William Cobbett on Wilberforce 
 
+![Cobbett&apos;s Political Register, Volume 47, 1823](../.gitbook/assets/2021-07-18.png)
+
 **William Cobbett** raging against **William Wilberforce** in his **Political Register** of July 19th 1823.
 
 "_Wilberforce writes long humbug pamphlets ... about West Indian Slavery._"
