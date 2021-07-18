@@ -78,5 +78,11 @@ Napoleon said of Physiognomy : "_we must not judge of a man by his face; we can 
 
 I thought this gives quite a charming insight into Stendhal's motives. He would forget himself writing and find himself literally in the dark scrambling for candles. Anyway what a relief to finish an essay, Damnably windy !
 
+### BBC Documentary : The Last Explorers : Livingstone 
+
+I found this documentary \(link\) a gentle transition to some of the concerns of TMA03. Livingstone was a Doctor, Scottish and Non-conformist like Mungo Park. Unlike Park he wanted to end slavery through commerce and religious conversion. However his mapping of the interior had the unintended consequence of providing information for more ruthless exploitation later. This documentary is available on BBC iplayer until 22nd December 2011.
+
+{% embed url="https://www.bbc.co.uk/programmes/b017hzw2" %}
+
 
 
