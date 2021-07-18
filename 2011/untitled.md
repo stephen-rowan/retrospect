@@ -26,3 +26,7 @@ His Napoleon book is after all, a draft. What did he actually publish on Napoleo
 
 This of course is just background, 'gathering evidence for the prosecution' \(as it were\). To answer the second part of the question is make a personal judgement on the evidence \(of Napoleon as Genius\). I have found this process very rewarding and interesting. Particularly how Stendhal stands in contrast with his peers. He is more real and human than many other Romantics. But that is just my personal judgement.
 
+### Stendhal on style  : Stendhal.
+
+As a youngster in the 1790s, Stendhal resented his bourgeois fathers pretensions of aristocracy. When they praised the arts, "their praises give me a mortal distaste for the most beautiful things". He felt their praise was "in bad faith". "... verse annoyed me because it dragged the sentences out and made them lose their clarity. I loathed steed instead of horse. I called that hypocrisy". Any thoughts ?
+
