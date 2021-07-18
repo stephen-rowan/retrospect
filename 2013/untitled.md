@@ -100,6 +100,28 @@ This entry was posted in Philosophy and tagged Gramsci, Kant on Thursday, Januar
 
 
 
+## May 2013
+
+### Revising ‘Nights of Labour’: Talk by Jacques Ranciere.
+
+Wordpress:Blogpost:
+
+[https://www.youtube.com/watch?v=pwW\_LiwCKlg](https://www.youtube.com/watch?v=pwW_LiwCKlg)
+
+"Video recording of a public talk at Sarai CSDS, by renowned philosopher Jacques Ranciere on the release of the Hindi translation of his book Nights of Labour: Workers' Dream in 19th Century France. \(Sarvahara Raatein: Unneesaveen sadi ke Frans mein Mazdoor Swapna\). The book has been translated from the English by Abhay Kumar Dube. This the first in a series of translations of outstanding texts to be published by Sarai-CSDS and Vani Prakashan.
+
+The talk on the 6th of February 2009 was followed by a workshop and roundtable with Jacques Ranciere, the next day.
+
+Jacques Ranciere is a well known philosopher and writer. As a young student, Ranciere, co-authored Reading Capital \(1968\), with the Marxist philosopher Louis Althusser. Ranciere later broke with Althusser over the 1968 uprising in France. Since the 1970s Ranciere has produced a number of remarkable texts that range from working class history, philosophy, education, politics, and aesthetics. His books include The Ignorant Schoolmaster: Five Lessons in Intellectual Emancipation\(1991\), The Names of History: On the Poetics of Knowledge \(1994\), The Politics of Aesthetics: The Distribution of the Sensible Tr. Gabriel Rockhill \(2004\),The Future of the Image \(2007\).
+
+Ranciere wrote The Nights of Labour after years of archival work. It traces the world of worker intellectuals in 19th century France, who, through their poems, music, letters, produced a world that did not celebrate work as in conventional socialist texts, but a life outside it. Radical in its style and argument, Nights of Labour, offers not just a revision of working class history, but the relation between politics, knowledge, aesthetics and equality, all of which have become topics of Ranciere's future books."
+
+This entry was posted in Philosophy and tagged Jacques Ranciere on Sunday, May 19, 2013.
+
+
+
+
+
 
 
 
