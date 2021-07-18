@@ -256,5 +256,45 @@ A mental disease has swept the planet: banalization. Everyone is hypnotized by p
 
 From the reddit Discussion for Chapter 1: The Culmination of Separation This entry was posted in Philosophy and tagged Guy Debord, Situationist, The Society of the Spectacle on Thursday, December 20, 2012.
 
+### The Society of the Spectacle : The Commodity as Spectacle. 
+
+Wordpress:Blogpost:
+
+#### The Commodity as Spectacle – Initial thoughts 35 – 38
+
+Lukács quote – Lukács seems to imply an historicist technological progression, these days this is sometimes positively described as a ‘”technological singularity”- that is, the moment of automation of the economy and a substantial section of industry. The cliche today is the division in the US, UK and Europe between knowledge workers, service workers and the unemployed.
+
+35 – “fluid aspects of human activity” reminds me of the premise of process philosophy “… that being is dynamic and that the dynamic nature of being should be the primary focus of any comprehensive philosophical account of reality and our place within it.” Debord seems to be drawing on existentialist resources that make a distinction between abstract rationalisations and emotional being. The “complex …of metaphysical subtleties” suggests the tangled web we weave to bridge the gap between the world as lived spectacle and its tension with our ‘emotional’ being.
+
+36 – a fetishism between a “intangible” spectacle of desire \(such as a product image, a lifestyle choice etc\) and the “tangible” product or environment \(which disappoints\).
+
+37 – The actual output of the spectacular society fails to satisfy human needs – indeed its mechanism requires alienation.
+
+38 – Although we may continue to think qualitatively – that energy is directed towards quantitative development and exposition \(“What do you do ?”, “How much do you make?” etc\). Our behaviour is regulated by the distance between what David Hume called our ideas and impressions. Ideas have become abstracted and reproduced as impressions. The immediacy of commodity spectacle becomes our immediate impression and fits with ready made ideas. We become divorced from immediately real ideas/impressions.
+
+I think we are well into productivity and commodity consumption for its own sake – I would agree with a figure like Andre Gorz \(Critique of Economic Reason\) that we can in reality all work less. While the spectacle demands that we work and consume more to sustain the spectacle. Those who are ‘work shy’ are consumption averse and maligned by the spectacle.
+
+There is a labour expended on surfing or browsing which is similar to the old analog rush of billboards. There is a kind of information excess – the twitter feeds, the simulation of the present moment, the transparent identities of facebook.
+
+Are there moments of rest in this technology ? More considered dialogues perhaps, that do more than troll ? Do open source projects create a fracture between copyright and consumption ?
+
+I have always tended to view the breaking of the teleonomy \(the apparent ends\) of the spectacle as expressed in Debord’s concept of the dérive. I see this simply as letting go of ends \(teleologies\) to explore possibilities of process \(open-ended\).
+
+I read \(49-53\) as Debord predicting the ubiquity of the spectacle as being its own demise. ‘Pseudo-use’ serves more and more ‘pseudo-needs’ to the human subject. As the spectacle and economic abundance become more ubiquitous the separation between “primary human needs” \(or desires\) and “pseudoneeds” becomes apparent. Debord‘s positive message is “Consciousness of desire and desire for consciousness are the same project,” \(53\).
+
+The spectacle has a teleological character to it yes. There are spectacular messages that promise an end \(such as wear this suit – look cool\). There are also more contractual ends \(study hard – get a career – pay taxes\). Qualitative ends attempt to answer and capture our dreams and desires. Quantitative ends attempt to realise our desires in activity \(work – consumption etc.\). The main point, I believe, is that ends are never reached. The spectacle promises a resolution, a fulfilment it cannot deliver – because its existence depends on ends never being fully realised.
+
+Although Debord is writing in the context of Marxism – I tend to think he is critical of its idealism. That progress in history to a natural end falls for the same teleological trap. Debord’s strategy would be as you put it “activities/strategies of chance and open-endedness” – which is more in sympathy with figures such as Deleuze.
+
+In my view an explicit opposition to domination and an open effort towards revolution risks the capture of its ‘telos’ or ends. The materialist Marxist is satisfied or destroyed. For me the escape from telos is process.
+
+The tension between the anarchist and Marxist positions has always been present. Marx’s German Ideology \(1846\) specifically attacks the anti-idealism of Max Stirner’s The ego and its own \(1845\). I first encountered the tension between Marxist priorities of doctrinal dominance and anarchist priorities of ‘pragmatic’ action in George Orwell’s Homage to Catalonia – a tragedy still worth reading.
+
+I have encountered Zizek last year while studying the speeches of Robespierre \(particularly “unanimous will” and “virtue”\). I did like the way he played with Robespierre and provocatively applauds Robespierre’s energy – a welcome change from blood soaked cliches. Thanks for the Kung-Fu Panda links – I have, enclosed herein, a reddit memo to look them up !
+
+“he maps out how people relate to the spectacle on a day to day and moderately individual way that Marxists tend to lump into the catch all of ‘alienation.’” – I support your view and would extend that to ‘open’ discourse in general – to unpack catch-all phrases.
+
+From the reddit : Discussion for Chapter 2: The Commodity as Spectacle This entry was posted in Philosophy and tagged Guy Debord, Situationist, The Society of the Spectacle on Friday, December 21, 2012. Edit
+
 
 
