@@ -364,7 +364,7 @@ This entry was posted in Philosophy and tagged David Chalmers on Wednesday, June
 
 ## July 2013
 
-### How to be normal 
+### How to be normal - contingent version
 
 It is normal to be reading about being normal. Now you are normal. For the moment.
 
