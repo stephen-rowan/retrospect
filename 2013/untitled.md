@@ -362,6 +362,12 @@ His 1996 book The Conscious Mind: In Search of a Fundamental Theory was highly s
 
 This entry was posted in Philosophy and tagged David Chalmers on Wednesday, June 19, 2013. Edit
 
+## July 2013
+
+### How to be normal 
+
+It is normal to be reading about being normal Now you are normal For the moment.
+
 
 
 
