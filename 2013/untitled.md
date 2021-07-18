@@ -144,6 +144,22 @@ _Communal life becomes possible only when a majority comes together that is stro
 
 /Page 41. Added on Monday, May 20, 2013, 04:23 AM./
 
+## June 2013
+
+### The Ego Tunnel: Prof. Dr. Thomas Metzinger at TEDxRheinMain. 
+
+Wordpress:Blogpost:
+
+{% embed url="https://www.youtube.com/watch?v=ZFjY1fAcESs" %}
+
+“Brain, bodily awareness, and the emergence of a conscious self: these entities and their relations are explored by German philosopher and cognitive scientist Dr Thomas Metzinger. Extensively working with neuroscientists he has come to the conclusion that, in fact, there is no such thing as a “self” — that a “self” is simply the content of a model created by our brain – part of a virtual reality we create for ourselves.
+
+But if the self is not “real,” he asks, why and how did it evolve? How does the brain construct the self? In a series of fascinating virtual reality experiments, Metzinger and his colleagues have attempted to create so-called “out-of-body experiences” in the lab, in order to explore these questions. As a philosopher, he offers a discussion of many of the latest results in robotics, neuroscience, dream and meditation research, and argues that the brain is much more powerful than we have ever imagined. He shows us, for example, that we now have the first machines that have developed an inner image of their own body — and actually use this model to create intelligent behavior. In addition, studies exploring the connections between phantom limbs and the brain have shown us that even people born without arms or legs sometimes experience a sensation that they do in fact have limbs that are not there. Experiments like the “rubber-hand illusion” demonstrate how we can experience a fake hand as part of our self and even feel a sensation of touch on the phantom hand form the basis and testing ground for the idea that what we have called the “self” in the past is just the content of a transparent self-model in our brains. Now, as new ways of manipulating the conscious mind-brain appear on the scene, it will soon become possible to alter our subjective reality in an unprecedented manner. The cultural consequences of this, Metzinger claims, may be immense: we will need a new approach to ethics, and we will be forced to think about ourselves in a fundamentally new way. At TEDxRheinMain 2011 he will share his thoughts on consciousness and the self and talk about the concept of the Ego-Tunnel.
+
+Pro. Dr. Thomas Metzinger: \(\*1958 in Frankfurt am Main, Germany\) is currently Professor of Theoretical Philosophy at the Johannes Gutenberg‐Universität Mainz and an Adjunct Fellow at the Frankfurt Institute for Advanced Study. In 2009 he returned from a prestigious one‐year Fellowship at the Wissenschaftskolleg zu Berlin \(Berlin Institute for Advanced Study\), is past president of the German Cognitive Science Society and currently president of the Association for the Scientific Study of Consciousness. His focus of research lies in analytical philosophy of mind, philosophy of science and philosophical aspects of the neuro- and cognitive sciences as well as connections between ethics, philosophy of mind and anthropology. He has edited and published extensively in German and English, e.g. one major scientific monograph developing a comprehensive, interdisciplinary theory about consciousness, the phenomenal self, and the first‐person perspective \(“Being No One — The Self‐Model Theory of Subjectivity”, Cambridge, MA: MIT Press, 2003\). In 2009, he published a popular book, which addresses a wider audience and also discusses the ethical, cultural and social consequences of consciousness research \(“The Ego Tunnel — The Science of the Mind and the Myth of the Self”, New York: Basic Books\).” 
+
+This entry was posted in Philosophy and tagged Thomas Metzinger on Sunday, June 9, 2013.
+
 
 
 
