@@ -30,3 +30,11 @@ This of course is just background, 'gathering evidence for the prosecution' \(as
 
 As a youngster in the 1790s, Stendhal resented his bourgeois fathers pretensions of aristocracy. When they praised the arts, "their praises give me a mortal distaste for the most beautiful things". He felt their praise was "in bad faith". "... verse annoyed me because it dragged the sentences out and made them lose their clarity. I loathed steed instead of horse. I called that hypocrisy". Any thoughts ?
 
+### Stendhal on the English  : Stendhal.
+
+" _... those English are gloomy, commonsensical people; I don't know of any people more talkative and yet more frigid_." Letter to Pauline \(His sister\), July 1804
+
+Of England ..."_...a country administered for the sole benefit and glory of between a thousand and twelve hundred families_." From 'Lord Byron in Italy', 1830
+
+I wonder how far national identity determines a view of Napoleon and is it impossible to write anything objective about him ?
+
