@@ -50,3 +50,29 @@ Stendhal refers frequently in; his autobiography to Physiognomy, both literally,
 
 Napoleon said of Physiognomy : "_we must not judge of a man by his face; we can know him only by his conduct. What countenances have I had to judge in the course of my life! What odd examples of physiognomy have come under my observation!_"
 
+### My perfect good faith - Stendhal 
+
+"I don't believe myself to have any other genius, any other guarantee of my worth, beyond ..
+
+1. to depict a likeness of the nature which at certain moments
+
+   appears
+
+   to me with such clarity;
+
+2. I am confident of my perfect good faith, of my reverence for
+
+   what is
+
+   true;
+
+3. and of the pleasure I take in writing, a pleasure which became a
+
+   mania in 1817 \(in Milan, at M.Peronti's, Corsia del Giardino\)
+
+   Note : 13 pages in an hour and a half. Damnably cold, 3 January
+
+   1836."
+
+
+
