@@ -378,6 +378,18 @@ It is normal to be reading about being normal. You are reading about being norma
 
 If you are reading about being normal, then you are normal. You are not reading about being normal. Therefore you are not normal.
 
+### Early Phenomenology. 
+
+Through a series of digressions I have ended up reading about the early pioneers of phenomenology Franz Brentano and Edmund Husserl in 'Introduction to Phenomenology' by Dermot Moran \(1999, Routledge\). I thought I would share some of my early impressions as I have not posted for a while.
+
+Brentano emphasised a descriptive approach towards psychological knowledge. Mental acts for Brentano can only be conscious, a mental act always has an object and a subsequent built-in reflection of itself. Brentano follows Descartes at least in the self evidence of an inner mental life. Interestly both Sartre and John Searle shared Brentano's insistence on mental acts being exclusively conscious. Brentano expanded this insight to be a necessary preliminary in any examination of the basis of all the human sciences that use mental acts in their reasoning. All that seems out of reach of Brentano's mental acts are the epistemological languages of mathematics or nomological reasoning.
+
+Husserl elaborated and expanded upon Brentano's descriptive psychology with his emphasis on the presuppositionless starting point. This procedure is also often referred to as the 'phenomenological epoche' or bracketing of philosophical or scientific presuppositions in order to be able to examine and presumably describe what is given in intuition. Such 'givenness' is always particular to someone at some time. At this point Husserl's phenomenology seems like a hybrid of the Cartesian and Kantian formulations of, respectively, the cogito or transcendental ego. But Husserl also insists on the empirical nature of a consciousness that is always caught up in the world as intentional mental acts proceed. Indeed Husserl takes aim at theoretical, objective or rationalist accounts as being essentially abstract idealisations that are 'views from nowhere' - in contrast with the existential temporal flow of human perception.
+
+Chewing all this over a number of doubts creep in. The most obvious is whether anything presuppositionless exists or can exist as an object of knowledge. Also the assumption that all conscious presuppositions can be bracketed \(which itself stems from a possibility unwarranted assumption that all mental acts are exclusively conscious\) or the objection that any phenomenological description will be just another presupposition. Nevertheless despite these significant reservations I do appreciate the call to return to experience - "back to the things themselves" and the insistence on the perspectivist nature of knowledge of objects. But at this stage I cannot see how any phenomenological description will be different in kind from any other epistemological approach that keeps contingency in view.
+
+
+
 
 
 
