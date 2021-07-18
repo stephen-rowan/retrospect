@@ -326,6 +326,18 @@ Wordpress:Blogpost:
 
 This entry was posted in Philosophy and tagged Consciousness, Galen Strawson on Wednesday, June 12, 2013. Edit
 
+### Was Aristotle really a functionalist ? 
+
+Wordpress:Blogpost:
+
+I came across Martha Nussbaum’s and Hilary Putnam’s discussions of whether Aristotle was a functionalist while studying the A222 – Mind book. Nussbaum linked hylomorphism to functionalism. The first book of AA308 ‘Aspects of Mind’ refers to Aristotle and then focuses on Descartes duelism with subsequent criticisms from behaviourists and functionalists. I find it fascinating that we might go in intellectual circles and, in effect, restate Aristotle in a modern context of functionalism or even Dennett’s intentional stance \(compare Dennett’s intentionality as a property of mind with Aristotle’s mind as a particular \[thinking\] form of matter\).
+
+Anyway I found this article may be an interesting read for those interested. 
+
+{% embed url="http://www.yorku.ca/christo/papers/aristotl.htm" %}
+
+This entry was posted in Philosophy and tagged Aristotle, Hilary Putnam, Martha Nussbaum on Monday, June 17, 2013. Edit
+
 
 
 
