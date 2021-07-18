@@ -65,5 +65,5 @@
 
 ## 2005
 
-* [Untitled](2005/untitled.md)
+* [2005](2005/untitled.md)
 
