@@ -78,11 +78,9 @@ with :
 
 "_Unreal City, Under the brown fog of a winter dawn, A crowd flowed over London Bridge, so many, I had not thought death had undone so many._"
 
+## March 2012
 
-
-_\*_ March 2012
-
-_\*\*_ Die Nebensonnen 
+### Die Nebensonnen 
 
 _I saw three suns in the sky, I stared at them long and hard; And  they, too, stood staring As if unwilling to leave me._
 
