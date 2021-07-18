@@ -434,6 +434,14 @@ If knowledge is based on justification \(such as with confirmation/empirical hol
 
 So I can say I know that matter-energy has more empirical justification as a reality principle than any other \(including the unknowability of the thing-in-itself\) and what I do not know has no bearing on the situation \(beyond waiting to be discovered\).
 
+### Genealogy of Ideas. 
+
+Should the history of ideas be examined from the perspective of the development of an idea or from biological, environmental and socio-economic perspectives ?
+
+Do societies in more extreme environments favour co-operative ideas ? Do affluent societies favour competitive and libertarian ideas ?
+
+Is globalisation imperialism in an environmental sense ? In that homogeneity of trade is based on an affluent perspective.
+
 
 
 
