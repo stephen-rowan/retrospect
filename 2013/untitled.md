@@ -348,7 +348,7 @@ Daniel Dennett on Tools To Transform Our Thinking. I just watched this talk give
 
 This entry was posted in Philosophy and tagged Daniel Dennett on Wednesday, June 19, 2013. Edit
 
-### TEDxSydney – David Chalmers – The Extended Mind. 
+### David Chalmers – The Extended Mind.  TEDxSydney.
 
 Wordpress:Blogpost:
 
