@@ -1,8 +1,8 @@
 ---
-description: Events of 2011
+description: Writing from 2011
 ---
 
-# 2011
+# Writing from 2011
 
 ## October 2011
 

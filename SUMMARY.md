@@ -12,7 +12,7 @@
 
 ## 2011
 
-* [2011](2011/untitled.md)
+* [Writing from 2011](2011/untitled.md)
 
 ## 2010
 
