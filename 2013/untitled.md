@@ -412,6 +412,28 @@ I wonder in a modern context whether the category mistakes of an occult immateri
 
 This entry was posted in Philosophy, Politics and tagged Gilbert Ryle on Friday, October 4, 2013. Edit
 
+## November 2013
+
+### I currently think that the Unknown as being neither known nor unknown.
+
+I currently think that the Unknown \(Capital ’U’ for clarity – e.g. Kant’s thing-in-itself etc.\) as being \(its existent status\) neither known nor unknown. Because it is not possible to know something is unknown without contradiction \(in bivalent logic\).
+
+Another way of expressing this in bivalent logic is that the Unknown is both known and unknown. The Unknown expressed in this way in classical logic raises the issue of \[P and Not P\].
+
+So the statement ‘I know that there is an unknown’ may translate to P \(I know an unknown\) and Not P \(I do not know an unknown\).
+
+In a normal logical sentence P must be true or false – so the statement P and Not\(P\) is always false whatever the truth-value of P is. In other words the statement P and Not \(P\) violates the laws of contradiction.
+
+Consider If \[P and Not\(P\)\], then Q. If it is the case that \[I know an unknown and I do not know an unknown\] then anything Q is true. Or in other words from a contradiction, anything \(and everything\) follows as a logical conclusion.
+
+Such tautologies arise because the Unknown is indeterminate and bivalent logic is determinate.
+
+The resolution of the Unknown may be found in intuitionistic logic where a proposition is either justified, flawed or neither \(tentatively translated as true/false/unknown\). Whereas the essential property of bivalent logic is truth \(true/false\) the essential property of intuitionistic logic is justification.
+
+If knowledge is based on justification \(such as with confirmation/empirical holism\) rather than just proof then we may validly compare reality-principles according to their intuitionistic logics.
+
+So I can say I know that matter-energy has more empirical justification as a reality principle than any other \(including the unknowability of the thing-in-itself\) and what I do not know has no bearing on the situation \(beyond waiting to be discovered\).
+
 
 
 
