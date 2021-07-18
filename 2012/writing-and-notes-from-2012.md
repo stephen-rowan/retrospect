@@ -226,7 +226,7 @@ This entry was posted in Art and tagged Outsider Art on Monday, November 26, 201
 
 Wordpress:Blogpost:
 
-3\) The spectacle presents itself simultaneously as society itself, as a part of society, and as a means of unification. As a part of society, it is ostensibly the focal point of all vision and all consciousness. But due to the very fact that this sector is separate, it is in reality the domain of delusion and false consciousness: the unification it achieves is nothing but an official language of universal separation.
+_3\) The spectacle presents itself simultaneously as society itself, as a part of society, and as a means of unification. As a part of society, it is ostensibly the focal point of all vision and all consciousness. But due to the very fact that this sector is separate, it is in reality the domain of delusion and false consciousness: the unification it achieves is nothing but an official language of universal separation._
 
 I like to think of the spectacle as individuated into mindset. The “objective reality of the spectacle” are mechanisms of education, consumer habit and other false or virtual distinctions. I may objectify my desires via the spectacle and separate my subjectivity from inter subjectivity. I am objectively ‘satisfied’ but subjectively isolated. I close myself to others my mediating myself via an objective apparatus. My “unification” is a kind of possession by spectacular culture.
 
