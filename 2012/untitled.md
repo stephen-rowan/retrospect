@@ -108,3 +108,13 @@ This review examines the subjective experience of rereading and how interpretati
 
 ' "_What did you make of that book ?", runs the conventional phrase. As we revisit the objects of our reading, like recognizable but weathered landmarks, there can be no full going back, because we are not exactly the same people we were : but the consolation of rereading is the knowledge that we are these different people in part because of what those books have made of us'_ \(last para of review\)
 
+### My first Sci Fi read
+
+![The first-edition front cover of the novel Nineteen Eighty-Four.](../.gitbook/assets/1984first.jpg)
+
+My first Sci Fi read and the first 'Adult' book I read was George Orwell's '1984'. I read it in 1980 \(aged 13\) and it frightened the hell out of me !
+
+My next was probably 'War of the Worlds' by H.G.Wells, the opening line still sticks in my head "No one would have believed in the last years of the nineteenth century that this world was being watched keenly and closely by intelligences greater than man's and yet as mortal as his own." The first 'modern' Sci Fi book I read was Iain M Bank's 'The Player of Games'.
+
+
+
