@@ -181,5 +181,21 @@ William Blake's 'Songs of Innocence and Experience' was influenced by Watt's 'Di
 
 A new, fascinating and poignant Guardian article on tooth analysis \(Using strontium isotope analyses of tooth enamel\) from a mass grave of Slaves in Rio has revealed a wide geographical area from which Africans were taken in the Portuguese slave trade. \(link\) Sugar production shifted to Brazil and Cuba around 1800 from the West Indies. Another article from 2005 \(link\) describes the discovery of the grave and reflects on the continuing legacy in the favela of Providencia. "The favela, founded in 1897 by homeless soldiers and freed slaves, towers over Gamboa's mass grave and is bisected by a towering staircase built by slaves."
 
+### Early Abolitionism : Quakers 
+
+Notes on [David Brion Davies](https://en.wikipedia.org/wiki/David_Brion_Davis)'s Quakers and the Sectarian Tradition, Slavery in Western Culture, OUP, 1966
+
+"Since sin was traditionally thought as a kind of slavery, and external bondage was justified as a product of sin, any change in the meaning of sin would be likely to affect attitudes to slavery." Davis, 1966, Pg.292, Quakers and the Sectarian Tradition, Slavery in Western Culture, OUP
+
+"When changing social and economic conditions brought a convergence of millennialism, perfectionism, and primitivism, the entire social order was seen to be based on a principle of slavery." Ibid. pg.299
+
+"Barclay did place the inward testimony of the Spirit above the authority of Scripture, reason, or external law, and thus tended to undermine the traditional foundations of social discipline." Ibid. pg.301
+
+This passage refers to Robert Barclay's 'An Apology for the True Christian Divinity: Being an Explanation and Vindication of the Principles and Doctrines of the People called Quakers' \(1678\). Barclay approved of personal responsibility but not the "wild notions" of those of the Munster Anabaptists who would "seek to make all things common, and would force their neighbours to share their estates with them.". Ibid. Summary of pg.302
+
+The Quakers developed a peculiar culture of perfectionist self-questioning for the individual twinned with a concern for maintaining a group consensus. Quakers who went too far in their condemnation of slavery were disowned by the community. Yet this did not prevent periodic exclamations of conscience from the likes of Elihu Coleman and William Edmundson 'who held that perpetual bondage was an "oppression of the mind"' \(see. Ibid. pg.307\).
+
+Quakers were also intimately linked with the early expansion of sugar cultivation and the African trade. \(ibid. pg.303\) Spiritual conscience conflicted with commercial exploitation.
+
 
 
