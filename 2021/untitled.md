@@ -1,8 +1,8 @@
 ---
-description: Activities and Events of 2021
+description: Writing & Notes from 2021
 ---
 
-# 2021
+# Writing & Notes from 2021
 
 ## July 2021
 

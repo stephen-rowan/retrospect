@@ -4,7 +4,7 @@
 
 ## 2021
 
-* [2021](2021/untitled.md)
+* [Writing & Notes from 2021](2021/untitled.md)
 
 ## 2014
 
