@@ -74,5 +74,9 @@ Napoleon said of Physiognomy : "_we must not judge of a man by his face; we can 
 
    1836."
 
+### Stendhal, The Life of Henry Brulard, NY Review Books, 1995,p.264, Chapter 24
+
+I thought this gives quite a charming insight into Stendhal's motives. He would forget himself writing and find himself literally in the dark scrambling for candles. Anyway what a relief to finish an essay, Damnably windy !
+
 
 
