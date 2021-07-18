@@ -458,6 +458,20 @@ Of interest in this lecture is an account of William James' notion of free will 
 
 **Summary** : Over 125 years ago, William James found today's most plausible and practical solution to the 2400-year old problem of free will and determinism. Many philosophers today think that free will is an illusion, or that free will is compatible with all our actions being pre-determined since the beginning of the universe. James thought otherwise.
 
+### Robert Frank and game theory. 
+
+OU:AA308:Emotion:
+
+The major point Robert Frank was making was that \(classical\) game theory in itself is not a sufficient explanation of human behaviour. Classical game theory assumes that the players in a game have absolute positions of self-interest and a transparent knowledge of the game. In such games players will not make commitments that defer immediate rewards – because each player is only informed by their self-interest and complete knowledge of their situation \(viz a viz the other player\) to act immediately.
+
+Frank argues that in practice \(the real ‘natural’ world\) players never have a complete knowledge of the game or of the state of play of other players. In such a scenario pure self-interest will often be self-destructive – the short term gains \(provided by self-interest\) will often be outweighed by the long term gains of commitment \(deferring self interest\).
+
+Frank goes on to argue that emotions act as incentives that may counterbalance pure self interest. He maintains that a fundamental reward mechanism \(perhaps evolutionary\) is still central to human behaviour – but that this mechanism is informed by emotional incentives/disincentives as well as by ‘rational’ self-interest. He also suggests that emotional expressions \(readily apparent at least in basic emotions\) communicate a player’s intention to commit \(or not\).
+
+George Ainslie in Breakdown of Will \(2001\) has explored what happens in modern societies when the fundamental reward mechanism is informed by addictive or self-destructive emotions \(drug, alcohol addiction etc.\). In these cases ‘irrational’ emotions override ‘rational’ emotions and \(informed\) self-interest. So emotions can also be subject to the commitment problem – where immediate emotional reward is favoured. Of course what counts as a rational or irrational emotion is itself contentious.
+
+It is notable that the UK Government now has a behavioural insights team, often called the 'Nudge Unit'.
+
 
 
 
