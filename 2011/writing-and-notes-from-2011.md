@@ -84,5 +84,31 @@ I found this documentary \(link\) a gentle transition to some of the concerns of
 
 {% embed url="https://www.bbc.co.uk/programmes/b017hzw2" %}
 
+### William Cobbett on Wilberforce 
 
+**William Cobbett** raging against **William Wilberforce** in his **Political Register** of July 19th 1823.
+
+"_Wilberforce writes long humbug pamphlets ... about West Indian Slavery._"
+
+"_... special care does he take never to write pamphlets about the wretched people in Ireland_,"
+
+_"When he talks about humanity, it is in favour of somebody at a great distance; somebody that the Government has no interest in oppressing._"
+
+"_For about thirty years Wilberforce has been at work about the blacks. Negro slavery has been rendered threefold more harsh in consequence of his efforts._"
+
+_"The whole of the colonies of America, ...must be completely revolutionised, before his schemes are put into practice. Ages will not see the thing done._"
+
+**Cobbett's Political Register, Volume 47, 1823, p.146**
+
+Google book copy \(link\)
+
+Article comparing Cobbett and Wilberforce On Peterloo August 30th, 1823
+
+"But Wilberforce listen to me a bit; did you not hear of a parcel of people, who were assembled at Manchester on 16th August 1819 ? These people whom you call free British labourers.Well then these labourers had not run away from any masters. They committed no crimes or misdemeanours towards any masters. About 500 of them were, nevertheless,killed or wounded: they suffered "in life or member"."
+
+"...Did you not object to any parliamentary inquiry into the conduct of those who caused the killing and wounding ? Well then, this was all right, was it ? The killing and wounding at Manchester was right: the thanking of the killers and wounders was right: it was right to applaud the conduct of the Ministers, and to object to the inquiry." Cobbetts Poltical Register, Volume 47, p.518
+
+Source as above
+
+The context of both tirades is a Bill proposed by Wilberforce to fine slave-owners for mistreatment of their slaves. Cobbett is angered at what he percieves as double standards, he also sees a pattern of moral hypocrisy in Protestantism in general.
 
