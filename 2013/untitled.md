@@ -374,6 +374,10 @@ It is normal to be reading about being normal. Now you are normal. For the momen
 
 It is normal to be reading about being normal. You are reading about being normal. Therefore you are normal.
 
+#### How to be normal - Modus tollens version
+
+If you are reading about being normal, then you are normal. You are not reading about being normal. Therefore you are not normal.
+
 
 
 
