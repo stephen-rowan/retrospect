@@ -106,11 +106,11 @@ Google book copy \([link](https://books.google.co.uk/books?id=wpVCAAAAYAAJ&print
 
 ### Article comparing Cobbett and Wilberforce On Peterloo August 30th, 1823
 
-"But Wilberforce listen to me a bit; did you not hear of a parcel of people, who were assembled at Manchester on 16th August 1819 ? These people whom you call free British labourers.Well then these labourers had not run away from any masters. They committed no crimes or misdemeanours towards any masters. About 500 of them were, nevertheless,killed or wounded: they suffered "in life or member"."
+_"But Wilberforce listen to me a bit; did you not hear of a parcel of people, who were assembled at Manchester on 16th August 1819 ? These people whom you call free British labourers.Well then these labourers had not run away from any masters. They committed no crimes or misdemeanours towards any masters. About 500 of them were, nevertheless,killed or wounded: they suffered "in life or member_"."
 
-"...Did you not object to any parliamentary inquiry into the conduct of those who caused the killing and wounding ? Well then, this was all right, was it ? The killing and wounding at Manchester was right: the thanking of the killers and wounders was right: it was right to applaud the conduct of the Ministers, and to object to the inquiry." Cobbetts Poltical Register, Volume 47, p.518
+"_...Did you not object to any parliamentary inquiry into the conduct of those who caused the killing and wounding ? Well then, this was all right, was it ? The killing and wounding at Manchester was right: the thanking of the killers and wounders was right: it was right to applaud the conduct of the Ministers, and to object to the inquiry_." Cobbetts Poltical Register, Volume 47, p.518
 
 Source as above
 
-The context of both tirades is a Bill proposed by Wilberforce to fine slave-owners for mistreatment of their slaves. Cobbett is angered at what he percieves as double standards, he also sees a pattern of moral hypocrisy in Protestantism in general.
+The context of both tirades is a Bill proposed by Wilberforce to fine slave-owners for mistreatment of their slaves. Cobbett is angered at what he perceives as double standards, he also sees a pattern of moral hypocrisy in Protestantism in general.
 
