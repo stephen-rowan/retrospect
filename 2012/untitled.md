@@ -82,6 +82,8 @@ with :
 
 ### Die Nebensonnen 
 
+![Die Nebensonnen ](../.gitbook/assets/5ydbfvp2.png)
+
 _I saw three suns in the sky, I stared at them long and hard; And  they, too, stood staring As if unwilling to leave me._
 
 _Ah, but you are not my suns! Stare at others in the face, then: Until recently I, too, had three; Now the best two are gone. But let the third one go, too! In the darkness I will fare better._
