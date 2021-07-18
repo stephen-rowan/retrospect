@@ -48,5 +48,9 @@ Socrates defense of Justice is also by analogy with the health of tripartite sou
 
 {% embed url="https://www.youtube.com/watch?v=nVQKbQVc2\_w" %}
 
+“Introduction to Political Philosophy \(PLSC 114\)
 
+Lecture 4 introduces Plato’s Republic and its many meanings in the context of moral psychology, justice, the power of poetry and myth, and metaphysics. The Republic is also discussed as a utopia, presenting an extreme vision of a polis–Kallipolis–Plato’s ideal city.” 
+
+This entry was posted in Philosophy and tagged A222, Allegory, Analogy, Plato on Monday, January 7, 2013. Edit
 
