@@ -494,6 +494,35 @@ Solomon also refers to “D.F. Pears points to this same feature by noting that 
 
 “It is important that the dynamic part of the agent's equipment may either be a valuation or a mere desire. These two things are not the same, however closely they may be connected with one another. The examples that will be used will nearly always involve a valuation, so that internal irrationality may be examined in its most extreme and striking form.” \(Pears, 1982, p.158\).
 
+### Definition of Evaluate. :OU:AA308:
+
+Evaluate - verb \[with obj.\]
+
+1. form an idea of the amount, number, or value of; assess: the study will assist in evaluating the impact of recent changes \| \[with clause\] : a system for evaluating how well the firm is performing.
+2. \(Mathematics\) find a numerical expression or equivalent for \(an equation, formula, or function\): substitute numbers in a simple formula and evaluate the answer.
+
+Only in the mathematical context \(2\) can evaluate be defined as ‘work out the value of’. Definition \(1\) refers primarily to the formation of ideas. Hence an evaluative judgement \(or a process of ‘evaluating something’ in order to arrive at a judgement\) is the formation of an idea in respect of a judgement.
+
+Facts are typically arrived at through analytic or synthetic judgements. A purely abstract mathematical problem is analytic – the factual solution being an analytic judgement. An empirical problem is synthetic – the factual solution is based on induction \(observation, experiment etc.\).
+
+But an evaluative judgement is not, necessarily, factual – rather it expresses an attitude to the world. As OED definition \(1\) expresses it the formation of an idea of. Furthermore ‘value of’ need not be quantitative but may also be qualitative. For example ethical or aesthetic judgements may be qualitative judgements.
+
+Applying the above to Price’s examples …
+
+The \[factual\] judgement that wealth is desired. This is asserting a fact \(that wealth is desired\) which may or may not be correct.
+
+The \[evaluative\] judgement that it is desirable. This is expressing an attitude ‘that it is’. One could have such an attitude even if ‘wealth is desired’ is not a fact.
+
+The \[factual\] judgement that climbing mountains is likely to injure you. This is asserting a fact \(that climbing mountains is likely to injure you\) which may or may not be correct. As others have noted this example demonstrates that the assertion of a fact may be incorrect or unjustified. The example can seem confusing because ‘is likely’ sounds more ambiguous than ‘will’ or ‘is’. But the assertion something is likely is a factual assertion. Note that synthetic judgements based on induction are contingent. The assertion that ‘climbing mountains is likely to injure you’ is in essence a synthetic judgement that is contingent upon evidence that will either support or deny its factual status.
+
+The judgement that climbing mountains is dangerous. This is expressing an attitude towards ‘climbing mountains’. One could have such an attitude even if ‘climbing mountains is dangerous’ is not a fact.
+
+See also
+
+{% embed url="http://www.rbjones.com/rbjpub/philos/epistem/rbj019.htm" %}
+
+Three Kinds of Judgement
+
 
 
 
