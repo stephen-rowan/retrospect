@@ -12,7 +12,7 @@
 
 ## 2013
 
-* [2013](2013/untitled.md)
+* [Writing & Notes from 2013](2013/untitled.md)
 
 ## 2012
 
@@ -54,5 +54,4 @@
 ## 1983
 
 * [1983 Artworks](1983/untitled.md)
-
 
