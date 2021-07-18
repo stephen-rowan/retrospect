@@ -118,6 +118,32 @@ Ranciere wrote The Nights of Labour after years of archival work. It traces the 
 
 This entry was posted in Philosophy and tagged Jacques Ranciere on Sunday, May 19, 2013.
 
+### Quotes from Freud's 'Civilization and its Discontents' \(Penguin Great Ideas\)
+
+#### **\*** We shall always tend to view misery objectively
+
+_We shall always tend to view misery objectively, that is to project ourselves, with all our demands and susceptibilities, into their conditions, and then try to determine what occasions for happiness or unhappiness we should find in them._
+
+/Page 33. Added on Monday, May 20, 2013, 04:11 AM./
+
+#### **\*** Man has become, so to speak, a god with artificial limbs.
+
+_Man has become, so to speak, a god with artificial limbs. He is quite impressive when he dons all his auxiliary organs, but they have not become part of him and still give him a good deal of trouble on occasion ... However, he is entitled to console himself with the fact that this development will not have come to an end in AD 1930. Distant ages will bring new and probably unimaginable advances in this field of civilization and so enhance his god-like nature. But in the interest of our investigation let us also remember that modern man does not feel happy with his god-like nature. We acknowledge, then, that a country has a high level of civilization if we find that in it everything that can assist man in his exploitation of the land and protect him against the forces of nature – everything, in short, that is of use to him – is attended to and properly ordered._
+
+/Page 36. Added on Monday, May 20, 2013, 04:16 AM./
+
+#### **\*** Order is a kind of compulsion to repeat
+
+_Order is a kind of compulsion to repeat, which, once a pattern is established, determines when, where and how something is to be done, so that there is no hesitation or vacillation in identical cases._
+
+/Page 38. Added on Monday, May 20, 2013, 04:20 AM./
+
+#### **\*** Communal life becomes possible only when a majority comes together
+
+_Communal life becomes possible only when a majority comes together that is stronger than any individual and presents a united front against every individual._
+
+/Page 41. Added on Monday, May 20, 2013, 04:23 AM./
+
 
 
 
