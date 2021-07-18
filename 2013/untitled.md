@@ -82,5 +82,25 @@ Here is Aaron in his own words speaking about internet freedom
 
 Academics are posting their papers online as PDFs, in tribute to Aaron Swartz, and providing links on Twitter using the hashtag \#pdftribute 
 
-This entry was posted in Technology and tagged Copyright, Creative Commons on Thursday, January 17, 2013. Edit
+This entry was posted in Technology and tagged Copyright, Creative Commons on Thursday, January 17, 2013. 
+
+### Can non-Europeans think ?
+
+Wordpress:Blogpost:
+
+Extending the thought that “Words … are much more like values than they are facts,” – we might arrive at a kind of linguistic/ethical relativism. Or, as we seem to do a lot in philosophy, we must pay attention to what we mean by a certain term. So an ethical argument is required to say “I mean this – by saying this” as well as “This thought lead to this”.
+
+A recent article on the Al Jazeera website “Can non-Europeans think?” argues that Kant’s ‘universal law’ is a contrived norm. Hamid Dabashi, a Professor of Iranian Studies and Comparative Literature at Columbia University cites Gramsci’s ‘Prison Notebooks’ …
+
+“_Gramsci’s conclusion is that the reason Kant can say what he says and offer his own behaviour as measure of universal ethics is that “Kant’s maxim presupposes a single culture, a single religion, a ‘world-wide’ conformism..._”
+
+I’m not sure if I share Professor Dabashi’s view \(because I am European ?\) – but may he has a point. If he is correct then the words we use to build ethical frameworks can only have a presumed or imposed universality. 
+
+This entry was posted in Philosophy and tagged Gramsci, Kant on Thursday, January 24, 2013. Edit
+
+
+
+
+
+
 
