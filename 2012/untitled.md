@@ -80,3 +80,25 @@ with :
 
 
 
+_\*_ March 2012
+
+_\*\*_ Die Nebensonnen 
+
+_I saw three suns in the sky, I stared at them long and hard; And  they, too, stood staring As if unwilling to leave me._
+
+_Ah, but you are not my suns! Stare at others in the face, then: Until recently I, too, had three; Now the best two are gone. But let the third one go, too! In the darkness I will fare better._
+
+Die Nebensonnen, the penultimate song of winterreise serves to impress triadic associations on the listener. That these associations may be suggestive yet elusive is perhaps the point. Fundamentally the Die Nebensonnen are like a child’s stick figure drawing or Da Vinci’s Vitruvian Man. 
+
+Die Nebensonnen are stick-pins to hold a picture of reality or of self-identity. The figural and symbolic identity of Die Nebensonnen breaks down in the Song from Three Suns to one Sun to none. The scientific fact of the ‘Dog Suns’, a mere optical illusion of Nebensonnen is a reminder that our perception, however flawed, creates meaning in patterns. The Suns stare back at the observer and seem unwilling to leave. 
+
+The triadic symbol is resistant to change, it perhaps is a mere reflection/mirror image of the observer or an imagined deity/after image. Yet the Suns are not the observers suns, at least the observer disowns them. The two best Suns are perhaps the Suns that create meanings, alternatives and relationships. The one Sun is like the pronoun I’, the two other Suns lend meaning, they add verbs and nouns. To query what the trinity represents leads the listener on a journey, their own winterreise. 
+
+To speculate on its meaning is to be complicit in the wanderers illusion. ‘Reality’ is one Sun, we are alone. Figuratively we are left with a geometrical point with no extent or dimension of meaning. To let go of this Sun is to enter darkness. 
+
+A characteristic of Romanticism is the emergence of or emphasis on ambiguous symbolism in contrast to the contained symbolism of the Enlightenment and Renaissance. This open symbolism promises the infinite, rebels against finite restrictions on meaning, but risks becoming meaningless.
+
+
+
+
+
