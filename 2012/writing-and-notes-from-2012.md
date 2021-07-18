@@ -206,5 +206,19 @@ Another issue that Baggini raises that bothers me – is how we use ‘I’ to d
 
 Similarly with Parfit, as he focuses on the future Self or ‘I’ – does he not fall into the assumption that the ‘I’ is a ‘thing’ not a process ? Does he assume that there is a point in time where the Self can be assessed ? Yet when ‘I’ becomes static \(like time\) perhaps it ceases to exist \(it loses its meaning\) and becomes an abstract division of Self. This entry was posted in Philosophy and tagged A222, David Hume, Julian Baggini on Saturday, October 20, 2012.
 
+## November 2012
+
+### Outsider’s ‘Frames of Reference’.
+
+Wordpress:Blogpost:
+
+“_In recent years, the work of self-taught artists has come to be contextualized within larger narratives of contemporary art. How is Outsider Art best understood and what does this definition mean when ‘inside’ and ‘outside’ become blurred?_”
+
+{% embed url="http://jonathangriffin.org/2012/11/21/frames-of-reference/" %}
+
+This article is interesting – my initial impression is that it predominantly reflects the American viewpoint which is quite distinct from UK and European experience. The exposure of the term ‘Outsider’ and the market in ‘Outsider’ art is much more developed and commonplace. I will have to read and digest it at length. ‘
+
+This entry was posted in Art and tagged Outsider Art on Monday, November 26, 2012.
+
 
 
