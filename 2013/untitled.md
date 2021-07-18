@@ -168,6 +168,16 @@ Wordpress:Blogpost:
 
 This entry was posted in Art and tagged Kathy Acker, William S. Burroughs on Monday, June 10, 2013.
 
+### Hubert Dreyfus Lectures on Heidegger’s Being and Time.
+
+{% embed url="https://www.youtube.com/watch?v=QBMySi3veVs" %}
+
+This entry was posted in Philosophy and tagged Martin Heidegger on Tuesday, June 11, 2013.
+
+{% embed url="https://www.youtube.com/watch?v=HMdF6ueH59s" %}
+
+This entry was posted in Philosophy and tagged Martin Heidegger on Tuesday, June 11, 2013.
+
 
 
 
