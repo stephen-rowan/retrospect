@@ -388,6 +388,32 @@ Husserl elaborated and expanded upon Brentano's descriptive psychology with his 
 
 Chewing all this over a number of doubts creep in. The most obvious is whether anything presuppositionless exists or can exist as an object of knowledge. Also the assumption that all conscious presuppositions can be bracketed \(which itself stems from a possibility unwarranted assumption that all mental acts are exclusively conscious\) or the objection that any phenomenological description will be just another presupposition. Nevertheless despite these significant reservations I do appreciate the call to return to experience - "back to the things themselves" and the insistence on the perspectivist nature of knowledge of objects. But at this stage I cannot see how any phenomenological description will be different in kind from any other epistemological approach that keeps contingency in view.
 
+## October 2013
+
+### Politics and the mind – a common genealogy ?
+
+Wordpress:Blogpost:
+
+I was inspired by the ‘historical note’ passage from ‘Descartes’ Myth’ \(Reading 2, pages 147-148\) where Ryle suggests “One benefit bestowed by the para-mechanical myth was that it partly superannuated the then prevalent para-political myth.” to consider the genealogy of these myths in more detail.
+
+That is, the logical forms of principles of power/politics developed in parallel with logical forms of the principles of mind. Assuming in general the philosophies of Plato and Aristotle both tended to orbit a central logical principle.
+
+With Plato this might be said to be the theory of forms and with Aristotle teleological hylomorphism. The Platonic influence might be said to emphasise the primacy of thought as for example in the separation of nous into a existance of form/idea that is immune from the constantly changing imperfection of material things \(Phaedo, Timaeus\).
+
+With Aristotle the logical principle centres on the purpose that form gives to matter. The degree to which matter is actualised to its potential form is the measure of its success. However, like Plato, Aristotle also thought nous was immaterial – which seemed to contradict somewhat Aristotle’s classification of the soul as a form of the body.
+
+Plato’s Republic and Aristotle’s Politics each had a very different emphasis. With Plato stressing an ideal future hierarchy and Aristotle stressing an ideal existing balance of the community. Nevertheless we might agree with Ryle’s characterisation of these as “old myth\(s\) of Final Causes”.
+
+Ryle suggests the the route to the ‘para-mechanical myth’ can be traced back to the the incorporation and refinement of Platonic/Aristotelian ideas into Christian theology. Politically the hierarchy of knowledge \(in Plato’s Republic\) becomes a divine hierarchy in Augustine and Calvin. It might be concluded that the univocal logical form of nous was fragmented in the shift to the Christian conscience. Whilst in Plato or Aristotle an individual might have degrees of knowledge – in Christianity one is either saved or damned. Nous becomes the divine mind of God – irredeemably separate from mortals.
+
+So the separation of the body of humanity and the divine mind of God is in place prior to Descartes. As Ryle puts it Descartes simply restated this separation in the “the syntax of Galileo”. Ryle suggests that the new “para-mechanical myth” lends support to the developing “para-political myths” of the early enlightenment. That is a shift away from rigid predetermined hierarchies to autonomous political machines or models of power. From acceptance of preordained power to an investigation into the mechanics of power.
+
+I wonder in a modern context whether the category mistakes of an occult immaterial mind might be seen to parallel category mistakes of occluded,immaterial and absolute political principles ? That is the more immaterial and nebulous a political principle or rhetoric is the more likely it is to be an illusion. 
+
+This entry was posted in Philosophy, Politics and tagged Gilbert Ryle on Friday, October 4, 2013. Edit
+
+
+
 
 
 
