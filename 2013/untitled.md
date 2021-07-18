@@ -368,6 +368,12 @@ This entry was posted in Philosophy and tagged David Chalmers on Wednesday, June
 
 It is normal to be reading about being normal. Now you are normal. For the moment.
 
+#### Modus ponens version
+
+It is normal to be reading about being normal. You are reading about being normal. Therefore you are normal.
+
+
+
 
 
 
