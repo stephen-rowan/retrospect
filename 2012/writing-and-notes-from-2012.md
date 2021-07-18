@@ -166,6 +166,8 @@ I wish there were more Sci Fi films as brilliant as Solaris. One of the very few
 
 His films require patience and attention, they are miles away from standard film fare in a poetic Tarkovsky Land of their own.
 
+![A Still from &quot;Stalker&quot;](../.gitbook/assets/2003-film-still-tarkosky-stalker-a.jpg)
+
 ## May 2012
 
 ### A sense of place 
