@@ -161,3 +161,19 @@ Source : The annual subscription charities and public societies in London, 1823,
 * Society for improving the condition of children and others employed by chimney sweepers - \(Vice-President\) pg.141
 * African Institution - Promoting civilisation in Africa, suppressing slavery - \(Vice-President\) pg.142
 
+### The legacy of Isaac Watts 
+
+Comparing the hymns of Addison, Watts and Wesley is very enlightening. I found the OU exercise very helpful in this \(Block 3, pg.20\). I thought I'd share some agnostic impressions and discoveries ...
+
+Addison's "The spacious firmament on high" \(Anthology I, p.229\), full of order and reason seems incongruous in a spiritual song. It is clear to see how such a line of thought leads to deism.
+
+Wesley's "And can it be ...?" \(Anthology I, p.233\) suggests an almost proprietorial personal investment in religion. The achievement of a personal interest is almost Faustian !
+
+Watt's "When I survey the won'drous Cross" \(Anthology I, p.230\) feels the most genuine, it is simple and straightforward. Not surprising given it is about self-effacement.
+
+I've encountered Isaac Watts before in reading his 'The improvement of the mind' \(1741\) a clear-sighted work with common- sense tips to study. Puts a lot of modern self-help books to shame ! His 'Logic' \(1724\) is a beginners textbook influenced by John Locke.
+
+William Blake's 'Songs of Innocence and Experience' was influenced by Watt's 'Divine Songs' . An article 'Isaac Watts and William Blake' \(Review of English Studies, Jul 1944\) can be found searching the OU library. In addition Watt's Psalms and the way his hymns were 'lined out' contributed to the composition of some Negro spirituals \( see 'Psalms in the Key of Life Isaac Watts and the Composers of Negro Spirituals', King or 'Dr. Watts and Mahalia Jackson - The Development, Decline, and Survival of a Folk Style in America', Tallmadge\). There is much speculation that some of his hymns were a direct inspiration for some spirituals. Such as 'When Israel Freed From Pharaoh's Land' as an influence for 'Go Down Moses'. There are some wonderful performances of spirituals on YouTube from the likes of Mahalia Jackson, Marion Anderson, Paul Robeson and Roland Hayes. Note : In the Baptist churches of Southern America "at the beginning of service the deacons will stand up front in a circle or in a couple of lines and the leader will start speaking a scripture or a line from a hymn and then all the deacons will take it up as a long long drawn out moaning chant, usually harmonised rather than in unison" \(Les Forgue\) Add. I think "...the little busy bee" is from his Divine Songs sometimes entitled \(rather sternly\) 'Against Idleness and Mischief' in Victorian Anthologies. I guess Watts would be prime target for mischief by Rev. Dodgson. Also compare Blake's London ... "I wander thro' each charter'd street, Near where the charter'd Thames does flow, And mark in every face I meet Marks of weekness, marks of woe." To Watt's Divine Song IV ... "Whene'er I take my walks abroad, How many poor I see, What shall I render to my God For all his gifts to me ?" Blakes rages against the "mind-forg'd manacles" while Watts draws a moral lesson.
+
+
+
