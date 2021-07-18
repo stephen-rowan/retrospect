@@ -1,8 +1,8 @@
 ---
-description: Writing from 2011
+description: Writing & Notes from 2011
 ---
 
-# Writing from 2011
+# Writing & Notes from 2011
 
 ## October 2011
 
