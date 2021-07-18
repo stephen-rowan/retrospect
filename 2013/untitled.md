@@ -579,6 +579,36 @@ The existential thesis \(3\) determines a canonical form in which all judgements
 
 “Finally, it is noteworthy that Brentano’s theory of judgement draws a close parallel between the correctness of our judgements and the correctness of our emotional attitudes, which could be taken as a starting point for exploring how epistemic and moral virtues are connected.“
 
+### A spectre is haunting Europe the spectre of thought.
+
+All the powers of distraction already enter to wholly exorcise this spectre: dope and bar, rhetoric and belief, specialists and managers.
+
+Where is the party in opposition that represents knowledge?
+
+They have not touched the power of thought.
+
+Where is the product that has defeated the reproach of knowledge, even the most advanced packaging, as well as received wisdom?
+
+Two things result from this fact:
+
+I. Knowledge is already acknowledged by all European powers to be itself a power even within the poverty of its ownership.
+
+II. It is high time that openly, in the face of the whole world, we air our views, reclaim our time, our space, our tendency to reflect, and meet this retail of knowledge with free thought itself.
+
+### Xmas menu 
+
+#### _Christmas Eve_
+
+Potato gratin Smoked mackerel Salad/rocket Freezer cake
+
+#### _Christmas_
+
+Baked fish in salt Lemon/cumin potatoes Spinach pine nuts Baked Fennel Chicken borscht \(Chicken stock/bones, beetroot, green cabbage, soured cream, small potatoes, onions, garlic\) Rice Pudding \(extra Milk\) Normal potatoes Hot chocolate Bananas bread etc. Fresh spinach 2 X parsnips Elderflower cordial
+
+#### _Boxing Day_
+
+Crusty bread Chicken borscht Apple crumble and custard
+
 
 
 
