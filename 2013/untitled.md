@@ -28,3 +28,23 @@ From the reddit : Chapter 8: Negation and Consumption Within Culture.
 
 This entry was posted in Philosophy and tagged Guy Debord, Situationist, The Society of the Spectacle on Monday, January 7, 2013.
 
+### Allegory in Plato’s Republic. :Wordpress:Blogpost:
+
+“I WENT down yesterday to the Piraeus with Glaucon the son of Ariston, that I might offer up my prayers to the goddess ; and also because I wanted to see in what manner they would celebrate the festival, which was a new thing. I was delighted with the procession of the inhabitants; but that of the Thracians was equally, if not more, beautiful. “\(Plato, The Dialogues of Plato translated into English with Analyses and Introductions by B. Jowett, M.A. in Five Volumes. 3rd edition revised and corrected \(Oxford University Press, 1892\). Chapter: BOOK I\)
+
+In the first few lines of Plato’s Republic Socrates relates his journey to the port town of Piraeus. Piraeus – a natural harbour where the Athenian fleet moored prior to the Peloponnesian War, connected to Athens itself by the Long Walls. Socrates journeys down to Piraeus, kateben, which the scholar Allan Bloom noted as an allusion to Odysseus’ journey into the underworld. The descent of the word katabasis may be contrasted with the ascent of the word anabasis. Anabasis can refer to an expedition from a coastline into the interior of a country while katabasis moves in the opposite direction from the interior to the coast.
+
+So Socrates is descending with Glaucon to the transient and earthy port side. They are moving away from the city state of Athens. A Goddess is being inaugurated, Bendls, the Thracian Artemis in a new festival. “Artemis of the wildland, Mistress of Animals” \(Homer, Iliad xxi 470 f.\). Artemis the huntress – the Greek Diana. The “procession of the \[native\]inhabitants” may be surpassed by that of the novelty of the Thracians.
+
+These lines are an airy allusion to the forthcoming themes of the Republic rather than an explicit analogy. Yet an impression is created of a dialogue rich in allusion and analogy. The descent to Piraeus is allusive but also might be an inductive experience. An experience we might learn from or draw analogies with.
+
+Now consider Glaucon’s initial scepticism of Justice. That the appearance of being just is better than the reality of being just. We have descended to an underworld of Justice – a shadowy port side Justice.
+
+Socrates defense of Justice is also by analogy with the health of tripartite soul of the individual with that of a just city state.
+
+… I found this lecture useful on the symbolism, role-playing and use of analogy in Plato’s Republic.
+
+{% embed url="https://www.youtube.com/watch?v=nVQKbQVc2\_w" %}
+
+
+
