@@ -444,6 +444,24 @@ Is globalisation imperialism in an environmental sense ? In that homogeneity of 
 
 
 
+## December 2013
+
+### William James' Free Will. 
+
+OU:AA308:Emotion:
+
+Youtube lecture by Bob Doyle, Associate Astronomy - Department, Visiting Scholar - Philosophy, Harvard University.
+
+Of interest in this lecture is an account of William James' notion of free will \(from James' 1896 lecture The Will to Believe\) as a two stage decision process of 1\) chance occurrences followed by 2\) choice \(or consent\)of one possibility. What attracted my attention is the parallel or conformance with James' notion of emotion which also involves a two stage separation between perception and emotion \(although James conceded perception-&gt;emotion and bodily cause-&gt;emotion\). Carolyn Price in this respect comments "James seems to suggest that the emotion and the perception of the eliciting event are quite separate. On this view, it would be possible to experience an emotion without having perceived any eliciting event." \(Price,p.21\). There seems to be then two types of emotion for James' a\) an emotion which has an object \(and presumably conforms with James' notion of free will\) and b\) objectless emotions such as "attacks of anxiety" \(Price,p.21\)\(presumably objectless emotions belong to the first stage of chance or randomness in free will terms\).
+
+{% embed url="http://www.youtube.com/watch?v=rPWg6tfSx2k" %}
+
+**Summary** : Over 125 years ago, William James found today's most plausible and practical solution to the 2400-year old problem of free will and determinism. Many philosophers today think that free will is an illusion, or that free will is compatible with all our actions being pre-determined since the beginning of the universe. James thought otherwise.
+
+
+
+
+
 
 
 
