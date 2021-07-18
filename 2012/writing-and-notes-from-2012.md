@@ -196,5 +196,15 @@ In my view the strength of 'Remains of the day' is Ishiguro's ability to link a 
 
 I suspect a similar blurring of the lines between time and place is happening in 'Last Orders'.
 
+## October 2012
+
+### The Ego Trick’ by Julian Baggini.
+
+I have been reading Julian Baggini’s book ‘The Ego Trick’ as an accessible introduction to contemporary issues of Self. Baggini concludes with his view of Self as being a ‘non-reductive materialist’. Is Parfit by contrast a pure reductionist materialist ? I find the existence of supervenience plausible – that we are not just things but layers of different types of things \(eg cells -&gt; organs -&gt; activity\) that in some way interact – yet are distinct. In this sense we are only just things when we are dead \(not even then as layers of supervenience persist in decomposition \).
+
+Another issue that Baggini raises that bothers me – is how we use ‘I’ to describe Self. He suggests ‘I’ is a verb masquerading as a noun. We can never find ‘I’ because it is not a thing but a process. In the same way we can never find ‘Now’ – only a sense of time passing. So to dismiss the existence of the Self as Hume does is premature because he \(in his famous thought experiment\) is looking for a ‘thing’, an instance of Self. Hume is pre-judging what an ‘I’ is.
+
+Similarly with Parfit, as he focuses on the future Self or ‘I’ – does he not fall into the assumption that the ‘I’ is a ‘thing’ not a process ? Does he assume that there is a point in time where the Self can be assessed ? Yet when ‘I’ becomes static \(like time\) perhaps it ceases to exist \(it loses its meaning\) and becomes an abstract division of Self. This entry was posted in Philosophy and tagged A222, David Hume, Julian Baggini on Saturday, October 20, 2012.
+
 
 
