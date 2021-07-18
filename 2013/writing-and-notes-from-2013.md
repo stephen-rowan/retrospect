@@ -6,7 +6,7 @@ description: Writing & Notes from 2013
 
 ## January 2013
 
-### The Society of the Spectacle : Negation and Consumption Within Culture. 
+### The Society of the Spectacle : Negation and Consumption Within Culture.
 
 Wordpress:Blogpost:
 
@@ -24,7 +24,7 @@ Debords opposition to the structuralist project, the “writing degree zero” o
 
 In 206 Debord seems to present détournement in the dialectic tradition \(citing Marx as achieving “the most effective use of this insurrectional style”\). In 208 the superlative presentation of détournement is stated. Détournement as “the opposite of quotation” is a reminder of our “cut and paste” subversion. An echo of ‘by any means necessary’. A recognition of the existing negation of culture.
 
-From the reddit : Chapter 8: Negation and Consumption Within Culture. 
+From the reddit : Chapter 8: Negation and Consumption Within Culture.
 
 This entry was posted in Philosophy and tagged Guy Debord, Situationist, The Society of the Spectacle on Monday, January 7, 2013.
 
@@ -46,23 +46,23 @@ Socrates defense of Justice is also by analogy with the health of tripartite sou
 
 … I found this lecture useful on the symbolism, role-playing and use of analogy in Plato’s Republic.
 
-{% embed url="https://www.youtube.com/watch?v=nVQKbQVc2\_w" %}
+{% embed url="https://www.youtube.com/watch?v=nVQKbQVc2\_w" caption="" %}
 
 “Introduction to Political Philosophy \(PLSC 114\)
 
-Lecture 4 introduces Plato’s Republic and its many meanings in the context of moral psychology, justice, the power of poetry and myth, and metaphysics. The Republic is also discussed as a utopia, presenting an extreme vision of a polis–Kallipolis–Plato’s ideal city.” 
+Lecture 4 introduces Plato’s Republic and its many meanings in the context of moral psychology, justice, the power of poetry and myth, and metaphysics. The Republic is also discussed as a utopia, presenting an extreme vision of a polis–Kallipolis–Plato’s ideal city.”
 
-This entry was posted in Philosophy and tagged A222, Allegory, Analogy, Plato on Monday, January 7, 2013. 
+This entry was posted in Philosophy and tagged A222, Allegory, Analogy, Plato on Monday, January 7, 2013.
 
-###  'Reading Marx’s Capital’. 
+### 'Reading Marx’s Capital’.
 
 Wordpress:Blogpost:
 
-I have been watching Prof. David Harvey’s excellent series of lectures on ‘Reading Marx’s Capital’ \(link\). This has reinforced my view that territories of expertise are essentially power relations. Where some kinds of expertise appear neutral \(such as the sciences\) their use or utility is not. The issue of expertise seems to be haunting philosophy at present – with much chatter about the ‘scientific turn’. Typically framed as statements such as “Who needs ethics when everything can be explained by bio-ethics” or “who needs philosophy of mind when neurobiology will provide the answers”. My response may be \(I am still considering this\) to require a dialectic of expertise. What is the expert trying to achieve – is it descriptive or prescriptive etc. It is naive to think such paradigms are neutral. 
+I have been watching Prof. David Harvey’s excellent series of lectures on ‘Reading Marx’s Capital’ \(link\). This has reinforced my view that territories of expertise are essentially power relations. Where some kinds of expertise appear neutral \(such as the sciences\) their use or utility is not. The issue of expertise seems to be haunting philosophy at present – with much chatter about the ‘scientific turn’. Typically framed as statements such as “Who needs ethics when everything can be explained by bio-ethics” or “who needs philosophy of mind when neurobiology will provide the answers”. My response may be \(I am still considering this\) to require a dialectic of expertise. What is the expert trying to achieve – is it descriptive or prescriptive etc. It is naive to think such paradigms are neutral.
 
 This entry was posted in Philosophy and tagged Karl Marx on Tuesday, January 8, 2013.
 
-### Aaron Swartz – 1986-2013. 
+### Aaron Swartz – 1986-2013.
 
 Wordpress:Blogpost:
 
@@ -78,11 +78,11 @@ Tributes to Aaron have come from Tim Berners-Lee, Cory Doctorow, Larry Lessig \(
 
 Here is Aaron in his own words speaking about internet freedom
 
-{% embed url="http://www.youtube.com/watch?feature=player\_embedded&v=Fgh2dFngFsg\#!" %}
+{% embed url="http://www.youtube.com/watch?feature=player\_embedded&v=Fgh2dFngFsg\#!" caption="" %}
 
-Academics are posting their papers online as PDFs, in tribute to Aaron Swartz, and providing links on Twitter using the hashtag \#pdftribute 
+Academics are posting their papers online as PDFs, in tribute to Aaron Swartz, and providing links on Twitter using the hashtag \#pdftribute
 
-This entry was posted in Technology and tagged Copyright, Creative Commons on Thursday, January 17, 2013. 
+This entry was posted in Technology and tagged Copyright, Creative Commons on Thursday, January 17, 2013.
 
 ### Can non-Europeans think ?
 
@@ -94,11 +94,9 @@ A recent article on the Al Jazeera website “Can non-Europeans think?” argues
 
 “_Gramsci’s conclusion is that the reason Kant can say what he says and offer his own behaviour as measure of universal ethics is that “Kant’s maxim presupposes a single culture, a single religion, a ‘world-wide’ conformism..._”
 
-I’m not sure if I share Professor Dabashi’s view \(because I am European ?\) – but may he has a point. If he is correct then the words we use to build ethical frameworks can only have a presumed or imposed universality. 
+I’m not sure if I share Professor Dabashi’s view \(because I am European ?\) – but may he has a point. If he is correct then the words we use to build ethical frameworks can only have a presumed or imposed universality.
 
 This entry was posted in Philosophy and tagged Gramsci, Kant on Thursday, January 24, 2013. Edit
-
-
 
 ## May 2013
 
@@ -146,17 +144,17 @@ _Communal life becomes possible only when a majority comes together that is stro
 
 ## June 2013
 
-### The Ego Tunnel: Prof. Dr. Thomas Metzinger at TEDxRheinMain. 
+### The Ego Tunnel: Prof. Dr. Thomas Metzinger at TEDxRheinMain.
 
 Wordpress:Blogpost:
 
-{% embed url="https://www.youtube.com/watch?v=ZFjY1fAcESs" %}
+{% embed url="https://www.youtube.com/watch?v=ZFjY1fAcESs" caption="" %}
 
 “Brain, bodily awareness, and the emergence of a conscious self: these entities and their relations are explored by German philosopher and cognitive scientist Dr Thomas Metzinger. Extensively working with neuroscientists he has come to the conclusion that, in fact, there is no such thing as a “self” — that a “self” is simply the content of a model created by our brain – part of a virtual reality we create for ourselves.
 
 But if the self is not “real,” he asks, why and how did it evolve? How does the brain construct the self? In a series of fascinating virtual reality experiments, Metzinger and his colleagues have attempted to create so-called “out-of-body experiences” in the lab, in order to explore these questions. As a philosopher, he offers a discussion of many of the latest results in robotics, neuroscience, dream and meditation research, and argues that the brain is much more powerful than we have ever imagined. He shows us, for example, that we now have the first machines that have developed an inner image of their own body — and actually use this model to create intelligent behavior. In addition, studies exploring the connections between phantom limbs and the brain have shown us that even people born without arms or legs sometimes experience a sensation that they do in fact have limbs that are not there. Experiments like the “rubber-hand illusion” demonstrate how we can experience a fake hand as part of our self and even feel a sensation of touch on the phantom hand form the basis and testing ground for the idea that what we have called the “self” in the past is just the content of a transparent self-model in our brains. Now, as new ways of manipulating the conscious mind-brain appear on the scene, it will soon become possible to alter our subjective reality in an unprecedented manner. The cultural consequences of this, Metzinger claims, may be immense: we will need a new approach to ethics, and we will be forced to think about ourselves in a fundamentally new way. At TEDxRheinMain 2011 he will share his thoughts on consciousness and the self and talk about the concept of the Ego-Tunnel.
 
-Pro. Dr. Thomas Metzinger: \(\*1958 in Frankfurt am Main, Germany\) is currently Professor of Theoretical Philosophy at the Johannes Gutenberg‐Universität Mainz and an Adjunct Fellow at the Frankfurt Institute for Advanced Study. In 2009 he returned from a prestigious one‐year Fellowship at the Wissenschaftskolleg zu Berlin \(Berlin Institute for Advanced Study\), is past president of the German Cognitive Science Society and currently president of the Association for the Scientific Study of Consciousness. His focus of research lies in analytical philosophy of mind, philosophy of science and philosophical aspects of the neuro- and cognitive sciences as well as connections between ethics, philosophy of mind and anthropology. He has edited and published extensively in German and English, e.g. one major scientific monograph developing a comprehensive, interdisciplinary theory about consciousness, the phenomenal self, and the first‐person perspective \(“Being No One — The Self‐Model Theory of Subjectivity”, Cambridge, MA: MIT Press, 2003\). In 2009, he published a popular book, which addresses a wider audience and also discusses the ethical, cultural and social consequences of consciousness research \(“The Ego Tunnel — The Science of the Mind and the Myth of the Self”, New York: Basic Books\).” 
+Pro. Dr. Thomas Metzinger: \(\*1958 in Frankfurt am Main, Germany\) is currently Professor of Theoretical Philosophy at the Johannes Gutenberg‐Universität Mainz and an Adjunct Fellow at the Frankfurt Institute for Advanced Study. In 2009 he returned from a prestigious one‐year Fellowship at the Wissenschaftskolleg zu Berlin \(Berlin Institute for Advanced Study\), is past president of the German Cognitive Science Society and currently president of the Association for the Scientific Study of Consciousness. His focus of research lies in analytical philosophy of mind, philosophy of science and philosophical aspects of the neuro- and cognitive sciences as well as connections between ethics, philosophy of mind and anthropology. He has edited and published extensively in German and English, e.g. one major scientific monograph developing a comprehensive, interdisciplinary theory about consciousness, the phenomenal self, and the first‐person perspective \(“Being No One — The Self‐Model Theory of Subjectivity”, Cambridge, MA: MIT Press, 2003\). In 2009, he published a popular book, which addresses a wider audience and also discusses the ethical, cultural and social consequences of consciousness research \(“The Ego Tunnel — The Science of the Mind and the Myth of the Self”, New York: Basic Books\).”
 
 This entry was posted in Philosophy and tagged Thomas Metzinger on Sunday, June 9, 2013.
 
@@ -164,29 +162,29 @@ This entry was posted in Philosophy and tagged Thomas Metzinger on Sunday, June 
 
 Wordpress:Blogpost:
 
-{% embed url="https://www.youtube.com/watch?v=axUc6Tt6SVQ" %}
+{% embed url="https://www.youtube.com/watch?v=axUc6Tt6SVQ" caption="" %}
 
 This entry was posted in Art and tagged Kathy Acker, William S. Burroughs on Monday, June 10, 2013.
 
 ### Hubert Dreyfus Lectures on Heidegger’s Being and Time.
 
-{% embed url="https://www.youtube.com/watch?v=QBMySi3veVs" %}
+{% embed url="https://www.youtube.com/watch?v=QBMySi3veVs" caption="" %}
 
 This entry was posted in Philosophy and tagged Martin Heidegger on Tuesday, June 11, 2013.
 
-### Daniel W. Smith – On the Sources of Normativity: A Deleuzean Account. 
+### Daniel W. Smith – On the Sources of Normativity: A Deleuzean Account.
 
 Wordpress:Blogpost:Deleuze:
 
-{% embed url="https://www.youtube.com/watch?v=SPoB99C98BA" %}
+{% embed url="https://www.youtube.com/watch?v=SPoB99C98BA" caption="" %}
 
 “Daniel W. Smith is Associate Professor of Philosophy at Purdue University and one of the world’s leading commentators on Deleuze. He is the translator of Deleuze’s Francis Bacon: The Logic of Sensation and Essays Critical And Clinical, as well as Isabelle Stengers’ The Invention of Modern Science and Pierre Klossowski’s Nietzsche and the Vicious Circle. Dr. Smith is the author of Essays on Deleuze and, most recently, the co-editor of The Cambridge Companion to Deleuze.
 
-Dr. Smith presented the following lecture, “On the Sources of Normativity: A Deleuzean Account”, at Purdue University as part of the Illuminations Lecture Series on Thursday April 4th, 2013.” 
+Dr. Smith presented the following lecture, “On the Sources of Normativity: A Deleuzean Account”, at Purdue University as part of the Illuminations Lecture Series on Thursday April 4th, 2013.”
 
 This entry was posted in Philosophy and tagged Gilles Deleuze, Kant on Tuesday, June 11, 2013. Edit
 
-### AA308 Philosophy of Mind Readings. 
+### AA308 Philosophy of Mind Readings.
 
 Wordpress:Blogpost:
 
@@ -302,7 +300,7 @@ Multiple drafts and the stream of consciousness – DANIEL C. DENNETT
 
 This entry was posted in Philosophy and tagged AA308 on Wednesday, June 12, 2013. Edit
 
-### The Mind’s Eye The science of consciousness and the soul. 
+### The Mind’s Eye The science of consciousness and the soul.
 
 Wordpress:Blogpost:
 
@@ -322,19 +320,19 @@ Wordpress:Blogpost:
 
 “David Malone is a director and presenter of BBC and Channel 4 documentaries exploring the history and philosophy of science. His work includes Testing God and he is the author of The Debt Generation.”
 
-{% embed url="http://iai.tv/video/the-mind-s-eye" %}
+{% embed url="http://iai.tv/video/the-mind-s-eye" caption="" %}
 
 This entry was posted in Philosophy and tagged Consciousness, Galen Strawson on Wednesday, June 12, 2013. Edit
 
-### Was Aristotle really a functionalist ? 
+### Was Aristotle really a functionalist ?
 
 Wordpress:Blogpost:
 
 I came across Martha Nussbaum’s and Hilary Putnam’s discussions of whether Aristotle was a functionalist while studying the A222 – Mind book. Nussbaum linked hylomorphism to functionalism. The first book of AA308 ‘Aspects of Mind’ refers to Aristotle and then focuses on Descartes duelism with subsequent criticisms from behaviourists and functionalists. I find it fascinating that we might go in intellectual circles and, in effect, restate Aristotle in a modern context of functionalism or even Dennett’s intentional stance \(compare Dennett’s intentionality as a property of mind with Aristotle’s mind as a particular \[thinking\] form of matter\).
 
-Anyway I found this article may be an interesting read for those interested. 
+Anyway I found this article may be an interesting read for those interested.
 
-{% embed url="http://www.yorku.ca/christo/papers/aristotl.htm" %}
+{% embed url="http://www.yorku.ca/christo/papers/aristotl.htm" caption="" %}
 
 This entry was posted in Philosophy and tagged Aristotle, Hilary Putnam, Martha Nussbaum on Monday, June 17, 2013. Edit
 
@@ -342,9 +340,9 @@ This entry was posted in Philosophy and tagged Aristotle, Hilary Putnam, Martha 
 
 Wordpress:Blogpost:
 
-Daniel Dennett on Tools To Transform Our Thinking. I just watched this talk given by Dennett at Royal Geographical Society as part of the launch of his new book ‘Intuition pumps and other tools for thinking’. Dennett coined the term intuition pump back in 1981 to broadly indicate thought experiments or analogies that cause \(or pump\) common-sense intuitions or conclusions. Dennett talks for about 30 minutes and takes questions for another 40 minutes. I don’t agree with Dennett on everything – for example he seems to imply that humans as a species are progressing in terms of cognitive thinking. I would take issue with that as a teleological presentation of evolution. Nevertheless it is an interesting talk and Dennett is a good speaker. I was struck by his statement that “All serious thinking is interpersonal.” ; which I take to mean that thinking needs another object \(or person\) to take itself outside of the thinkers ingrained beliefs. 
+Daniel Dennett on Tools To Transform Our Thinking. I just watched this talk given by Dennett at Royal Geographical Society as part of the launch of his new book ‘Intuition pumps and other tools for thinking’. Dennett coined the term intuition pump back in 1981 to broadly indicate thought experiments or analogies that cause \(or pump\) common-sense intuitions or conclusions. Dennett talks for about 30 minutes and takes questions for another 40 minutes. I don’t agree with Dennett on everything – for example he seems to imply that humans as a species are progressing in terms of cognitive thinking. I would take issue with that as a teleological presentation of evolution. Nevertheless it is an interesting talk and Dennett is a good speaker. I was struck by his statement that “All serious thinking is interpersonal.” ; which I take to mean that thinking needs another object \(or person\) to take itself outside of the thinkers ingrained beliefs.
 
-{% embed url="https://www.youtube.com/watch?v=EJsD-3jtXz0" %}
+{% embed url="https://www.youtube.com/watch?v=EJsD-3jtXz0" caption="" %}
 
 This entry was posted in Philosophy and tagged Daniel Dennett on Wednesday, June 19, 2013. Edit
 
@@ -352,13 +350,13 @@ This entry was posted in Philosophy and tagged Daniel Dennett on Wednesday, June
 
 Wordpress:Blogpost:
 
-{% embed url="https://www.youtube.com/watch?v=ksasPjrYFTg" %}
+{% embed url="https://www.youtube.com/watch?v=ksasPjrYFTg" caption="" %}
 
 “David Chalmers is Distinguished Professor of Philosophy and Director of the Centre for Consciousness at the Australian National University.
 
 \index{Chalmers David}Chalmers is interested in the relationship between mind, brain and reality. He is best known for formulating the “hard problem” of consciousness and for his arguments against materialism.
 
-His 1996 book The Conscious Mind: In Search of a Fundamental Theory was highly successful with both popular and academic audiences. In 2010 he gave the John Locke Lectures at the University of Oxford. These will shortly be published as his book Constructing the World . He also works on language, metaphysics, and artificial intelligence.” 
+His 1996 book The Conscious Mind: In Search of a Fundamental Theory was highly successful with both popular and academic audiences. In 2010 he gave the John Locke Lectures at the University of Oxford. These will shortly be published as his book Constructing the World . He also works on language, metaphysics, and artificial intelligence.”
 
 This entry was posted in Philosophy and tagged David Chalmers on Wednesday, June 19, 2013. Edit
 
@@ -378,7 +376,7 @@ It is normal to be reading about being normal. You are reading about being norma
 
 If you are reading about being normal, then you are normal. You are not reading about being normal. Therefore you are not normal.
 
-### Early Phenomenology. 
+### Early Phenomenology.
 
 Through a series of digressions I have ended up reading about the early pioneers of phenomenology Franz Brentano and Edmund Husserl in 'Introduction to Phenomenology' by Dermot Moran \(1999, Routledge\). I thought I would share some of my early impressions as I have not posted for a while.
 
@@ -408,7 +406,7 @@ Ryle suggests the the route to the ‘para-mechanical myth’ can be traced back
 
 So the separation of the body of humanity and the divine mind of God is in place prior to Descartes. As Ryle puts it Descartes simply restated this separation in the “the syntax of Galileo”. Ryle suggests that the new “para-mechanical myth” lends support to the developing “para-political myths” of the early enlightenment. That is a shift away from rigid predetermined hierarchies to autonomous political machines or models of power. From acceptance of preordained power to an investigation into the mechanics of power.
 
-I wonder in a modern context whether the category mistakes of an occult immaterial mind might be seen to parallel category mistakes of occluded,immaterial and absolute political principles ? That is the more immaterial and nebulous a political principle or rhetoric is the more likely it is to be an illusion. 
+I wonder in a modern context whether the category mistakes of an occult immaterial mind might be seen to parallel category mistakes of occluded,immaterial and absolute political principles ? That is the more immaterial and nebulous a political principle or rhetoric is the more likely it is to be an illusion.
 
 This entry was posted in Philosophy, Politics and tagged Gilbert Ryle on Friday, October 4, 2013. Edit
 
@@ -434,7 +432,7 @@ If knowledge is based on justification \(such as with confirmation/empirical hol
 
 So I can say I know that matter-energy has more empirical justification as a reality principle than any other \(including the unknowability of the thing-in-itself\) and what I do not know has no bearing on the situation \(beyond waiting to be discovered\).
 
-### Genealogy of Ideas. 
+### Genealogy of Ideas.
 
 Should the history of ideas be examined from the perspective of the development of an idea or from biological, environmental and socio-economic perspectives ?
 
@@ -442,11 +440,9 @@ Do societies in more extreme environments favour co-operative ideas ? Do affluen
 
 Is globalisation imperialism in an environmental sense ? In that homogeneity of trade is based on an affluent perspective.
 
-
-
 ## December 2013
 
-### William James' Free Will. 
+### William James' Free Will.
 
 OU:AA308:Emotion:
 
@@ -454,11 +450,11 @@ Youtube lecture by Bob Doyle, Associate Astronomy - Department, Visiting Scholar
 
 Of interest in this lecture is an account of William James' notion of free will \(from James' 1896 lecture The Will to Believe\) as a two stage decision process of 1\) chance occurrences followed by 2\) choice \(or consent\)of one possibility. What attracted my attention is the parallel or conformance with James' notion of emotion which also involves a two stage separation between perception and emotion \(although James conceded perception-&gt;emotion and bodily cause-&gt;emotion\). Carolyn Price in this respect comments "James seems to suggest that the emotion and the perception of the eliciting event are quite separate. On this view, it would be possible to experience an emotion without having perceived any eliciting event." \(Price,p.21\). There seems to be then two types of emotion for James' a\) an emotion which has an object \(and presumably conforms with James' notion of free will\) and b\) objectless emotions such as "attacks of anxiety" \(Price,p.21\)\(presumably objectless emotions belong to the first stage of chance or randomness in free will terms\).
 
-{% embed url="http://www.youtube.com/watch?v=rPWg6tfSx2k" %}
+{% embed url="http://www.youtube.com/watch?v=rPWg6tfSx2k" caption="" %}
 
 **Summary** : Over 125 years ago, William James found today's most plausible and practical solution to the 2400-year old problem of free will and determinism. Many philosophers today think that free will is an illusion, or that free will is compatible with all our actions being pre-determined since the beginning of the universe. James thought otherwise.
 
-### Robert Frank and game theory. 
+### Robert Frank and game theory.
 
 OU:AA308:Emotion:
 
@@ -472,7 +468,7 @@ George Ainslie in Breakdown of Will \(2001\) has explored what happens in modern
 
 It is notable that the UK Government now has a behavioural insights team, often called the 'Nudge Unit'.
 
-### Beliefs and intentional objects. 
+### Beliefs and intentional objects.
 
 OU:AA308:Emotion:
 
@@ -494,7 +490,7 @@ Solomon also refers to “D.F. Pears points to this same feature by noting that 
 
 “It is important that the dynamic part of the agent's equipment may either be a valuation or a mere desire. These two things are not the same, however closely they may be connected with one another. The examples that will be used will nearly always involve a valuation, so that internal irrationality may be examined in its most extreme and striking form.” \(Pears, 1982, p.158\).
 
-### Definition of Evaluate. 
+### Definition of Evaluate.
 
 OU:AA308:
 
@@ -521,17 +517,17 @@ The judgement that climbing mountains is dangerous. This is expressing an attitu
 
 See also
 
-{% embed url="http://www.rbjones.com/rbjpub/philos/epistem/rbj019.htm" %}
+{% embed url="http://www.rbjones.com/rbjpub/philos/epistem/rbj019.htm" caption="" %}
 
 Three Kinds of Judgement
 
-### Solomon and Brentano’s theory of judgement. 
+### Solomon and Brentano’s theory of judgement.
 
 OU:AA308:Emotion:
 
 Robert Solomon via Husserl seems to be following Brentano’s theory of judgement in respect of emotions as evaluative judgements.
 
-See \[\[http://plato.stanford.edu/entries/brentano-judgement/\]\[Stanford entry on theory of judgement\]\]
+See \[\[[http://plato.stanford.edu/entries/brentano-judgement/\]\[Stanford](http://plato.stanford.edu/entries/brentano-judgement/][Stanford) entry on theory of judgement\]\]
 
 “Brentano's leading question was a psychological one: What happens in our minds when we make a judgement? Introspectively it is an act quite similar to making a decision, although its behavioural effects are different. “
 
@@ -595,7 +591,7 @@ I. Knowledge is already acknowledged by all European powers to be itself a power
 
 II. It is high time that openly, in the face of the whole world, we air our views, reclaim our time, our space, our tendency to reflect, and meet this retail of knowledge with free thought itself.
 
-### Xmas menu 
+### Xmas menu
 
 #### _Christmas Eve_
 
@@ -609,7 +605,7 @@ Baked fish in salt Lemon/cumin potatoes Spinach pine nuts Baked Fennel Chicken b
 
 Crusty bread Chicken borscht Apple crumble and custard
 
-### A brief overview of logics 
+### A brief overview of logics
 
 **Classical logic** – often called first order broadly comprises propositional logic \(or roughly ‘sentential’ expressed in sentences\) and predicate logic \(expressed in quantified formal symbols\). Predicate logic is quantified according to absolute constraints of the existential \(‘there exists’\) and universal \(‘for all’\). Predicate logic is called ‘explosive’ in that logical consequences or steps are divided \(exploded\) in a bivalent tree pattern. One central concept of consistency in predicate logic that disallows contradictions is ex contradictione quodlibet \(ecq\) or ‘from a contradiction anything follows’. This rule is often called the law of non-triviality \(as ecq states that any consequence of a contradiction is trivial\).
 
@@ -617,58 +613,65 @@ Crusty bread Chicken borscht Apple crumble and custard
 
 ### Who do you think you are ? How to construct an identity.
 
-#### 1 The basics 
+#### 1 The basics
 
-##### 1.1 'factual' identity 
+**1.1 'factual' identity**
 
-###### 1.1.1 documentary identity 
+**1.1.1 documentary identity**
 
-###### 1.1.2 biological identity 
+**1.1.2 biological identity**
 
-###### 1.1.3 Do individuals exist ? Are you alone ? 
-##### 1.2 beliefs _
-###### 1.2.1 geographical identity - how to carve up the world ? _
-####### 1.2.1.1 actual 
-####### 1.2.1.1.1 local 
-####### 1.2.1.1.2 national 
-####### 1.2.1.1.3 regional 
-####### 1.2.1.1.4 global 
-####### 1.2.1.1.5 extraterrestrial _
-####### 1.2.1.2 virtual 
-####### 1.2.1.2.1 place 
-####### 1.2.1.2.2 space 
-####### 1.2.1.2.3 dimension 
-####### 1.2.1.2.4 extension _
-######_ 1.2.2 social identity - friends or families ? _
-######_ 1.2.3 sexual identity _
-######_ 1.2.4 semantic identity _
-######_ 1.2.5 hybrid identities - connecting the dots _
-######_ 1.2.6 Others - the identity of indiscernibles _
-#######_ 1.2.6.1 'I' _
-#######_ 1.2.6.2 'We' _
-#######_ 1.2.6.3 'Them' _
-#######_ 1.2.6.4 'Null' - what is left over ? 
-#### 2 Construction / destruction / drift 
-#### 3 Activation 
-#### 4 Maintenance 
-**\*\*** 4.1 Authenticity - keeping your receipts _
-**\***_ 4.1.1 Value / values _
-**\***_ 4.1.2 Provenance 
-**\*** 5 Function - things to do with your new toy 
-**\*** 6 Retirement/obsolescence/death 
-**\*** 7 Legacy
+**1.1.3 Do individuals exist ? Are you alone ?**
 
+**1.2 beliefs \_**
 
+**1.2.1 geographical identity - how to carve up the world ? \_**
 
+**\# 1.2.1.1 actual**
 
+**\# 1.2.1.1.1 local**
 
+**\# 1.2.1.1.2 national**
 
+**\# 1.2.1.1.3 regional**
 
+**\# 1.2.1.1.4 global**
 
+**\# 1.2.1.1.5 extraterrestrial \_**
 
+**\# 1.2.1.2 virtual**
 
+**\# 1.2.1.2.1 place**
 
+**\# 1.2.1.2.2 space**
 
+**\# 1.2.1.2.3 dimension**
 
+**\# 1.2.1.2.4 extension \_**
 
+**1.2.2 social identity - friends or families ?**
+
+**1.2.3 sexual identity**
+
+**1.2.4 semantic identity**
+
+**1.2.5 hybrid identities - connecting the dots**
+
+**1.2.6 Others - the identity of indiscernibles**
+
+**\# 1.2.6.1 'I'**
+
+**\# 1.2.6.2 'We'**
+
+**\# 1.2.6.3 'Them'**
+
+**\#\_ 1.2.6.4 'Null' - what is left over ?**
+
+#### 2 Construction / destruction / drift
+
+#### 3 Activation
+
+#### 4 Maintenance
+
+**\*\*** 4.1 Authenticity - keeping your receipts  _**\***_ 4.1.1 Value / values  _**\***_ 4.1.2 Provenance **\*** 5 Function - things to do with your new toy **\*** 6 Retirement/obsolescence/death **\*** 7 Legacy
 
