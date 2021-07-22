@@ -36,7 +36,7 @@
 
 ## 2005
 
-* [2005](2005/untitled.md)
+* [Artwork](2005/untitled.md)
 
 ## 2003
 

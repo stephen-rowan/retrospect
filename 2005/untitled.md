@@ -1,4 +1,8 @@
-# 2005
+---
+description: Artwork from 2005
+---
+
+# Artwork
 
 ## April 2005
 
