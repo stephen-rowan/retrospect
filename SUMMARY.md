@@ -37,6 +37,7 @@
 ## 2005
 
 * [Artwork](2005/untitled.md)
+* [Outside-In](2005/outside-in.md)
 
 ## 2003
 
