@@ -36,6 +36,12 @@ _"Although Mannheim did not share Scheler’s ontological ambitions, he too was 
 
 "_These two statements are not contradictory. Society does indeed possess objective facticity. And society is indeed built up by activity that expresses subjective meaning_."  \(p. 17\). 
 
+#### I. The Foundations of Knowledge in Everyday Life 
+
+#### 1. THE REALITY OF EVERYDAY LIFE
+
+
+
 
 
 
