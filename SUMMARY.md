@@ -20,7 +20,7 @@
 
 ## 2012
 
-* [Writing & Notes from 2012](2012/writing-and-notes-from-2012.md)
+* [Writing, Notes & Quotes from 2012](2012/writing-and-notes-from-2012.md)
 
 ## 2011
 

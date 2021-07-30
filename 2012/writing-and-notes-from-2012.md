@@ -1,8 +1,8 @@
 ---
-description: Writing & Notes from 2012
+description: 'Writing, Notes & Quotes from 2012'
 ---
 
-# Writing & Notes from 2012
+# Writing, Notes & Quotes from 2012
 
 ## January 2012
 
