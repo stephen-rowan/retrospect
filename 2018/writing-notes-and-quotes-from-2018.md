@@ -54,6 +54,10 @@ Berger, Peter L.; Luckmann, Thomas. The Social Construction of Reality: A Treati
 
 Berger, Peter L.; Luckmann, Thomas. The Social Construction of Reality: A Treatise in the Sociology of Knowledge \(p. 13\). Open Road Media. Kindle Edition.
 
+"_These two statements are not contradictory. Society does indeed possess objective facticity. And society is indeed built up by activity that expresses subjective meaning_."
+
+Berger, Peter L.; Luckmann, Thomas. The Social Construction of Reality: A Treatise in the Sociology of Knowledge \(p. 17\). Open Road Media. Kindle Edition.
+
 
 
 
