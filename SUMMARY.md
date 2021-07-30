@@ -6,6 +6,10 @@
 
 * [Writing & Notes from 2021](2021/untitled.md)
 
+## 2015
+
+* [Writing and Notes from 2015](2015/untitled.md)
+
 ## 2014
 
 * [Writing & Notes from 2014](2014/2014.md)
@@ -75,8 +79,4 @@
 ## 1983
 
 * [1983 Artworks](1983/untitled.md)
-
-## 2015
-
-* [Writing and Notes from 2015](2015/untitled.md)
 
