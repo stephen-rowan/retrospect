@@ -28,7 +28,7 @@
 
 ## 2011
 
-* [Writing, Notes & Quotes from 2011](2011/writing-and-notes-from-2011.md)
+* [Writing, Notes & Quotes from 2011](2011/writing-notes-and-quotes-from-2011.md)
 
 ## 2010
 
