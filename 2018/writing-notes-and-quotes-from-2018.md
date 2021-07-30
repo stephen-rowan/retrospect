@@ -30,6 +30,10 @@ Berger, Peter L.; Luckmann, Thomas. The Social Construction of Reality: A Treati
 
 Berger, Peter L.; Luckmann, Thomas. The Social Construction of Reality: A Treatise in the Sociology of Knowledge \(p. 10\). Open Road Media. Kindle Edition.
 
+"_Geiger returned to a narrower concept of ideology as socially distorted thought and maintained the possibility of overcoming ideology by careful adherence to scientific canons of procedure._"
+
+Berger, Peter L.; Luckmann, Thomas. The Social Construction of Reality: A Treatise in the Sociology of Knowledge \(p. 12\). Open Road Media. Kindle Edition.
+
 
 
 
