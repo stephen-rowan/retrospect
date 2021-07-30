@@ -50,6 +50,10 @@ Berger, Peter L.; Luckmann, Thomas. The Social Construction of Reality: A Treati
 
 Berger, Peter L.; Luckmann, Thomas. The Social Construction of Reality: A Treatise in the Sociology of Knowledge \(p. 13\). Open Road Media. Kindle Edition.
 
+"_The theoretical formulations of reality, whether they be scientific or philosophical or even mythological, do not exhaust what is “real” for the members of a society_."
+
+Berger, Peter L.; Luckmann, Thomas. The Social Construction of Reality: A Treatise in the Sociology of Knowledge \(p. 13\). Open Road Media. Kindle Edition.
+
 
 
 
