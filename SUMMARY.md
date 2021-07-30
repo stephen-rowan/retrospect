@@ -12,7 +12,7 @@
 
 ## 2015
 
-* [Writing, Notes & Quotes from 2015](2015/untitled.md)
+* [Writing, Notes & Quotes from 2015](2015/writing-notes-and-quotes-from-2015.md)
 
 ## 2014
 
