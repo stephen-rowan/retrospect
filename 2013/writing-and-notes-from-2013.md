@@ -1,8 +1,8 @@
 ---
-description: Writing & Notes from 2013
+description: 'Writing, Notes & Quotes from 2013'
 ---
 
-# Writing & Notes from 2013
+# Writing, Notes & Quotes from 2013
 
 ## January 2013
 

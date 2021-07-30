@@ -12,11 +12,11 @@
 
 ## 2014
 
-* [Writing & Notes from 2014](2014/2014.md)
+* [Writing, Notes & Quotes from 2014](2014/2014.md)
 
 ## 2013
 
-* [Writing & Notes from 2013](2013/writing-and-notes-from-2013.md)
+* [Writing, Notes & Quotes from 2013](2013/writing-and-notes-from-2013.md)
 
 ## 2012
 
