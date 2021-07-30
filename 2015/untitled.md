@@ -22,6 +22,8 @@ description: Writing & Notes from 2015
 
 Note : An acknowledgement that feelings consitute a dimension of thought.
 
+1st December 2015
+
 
 
 
