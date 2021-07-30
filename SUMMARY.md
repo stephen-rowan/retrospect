@@ -8,7 +8,7 @@
 
 ## 2018
 
-* [Writing, Notes & Quotes from 2018](2018/untitled.md)
+* [Writing, Notes & Quotes from 2018](2018/writing-notes-and-quotes-from-2018.md)
 
 ## 2015
 
@@ -83,6 +83,4 @@
 ## 1983
 
 * [1983 Artworks](1983/untitled.md)
-
-
 
