@@ -12,6 +12,12 @@ description: Writing & Notes from 2015
 
 "Quic quid aetatis retro est, mors tenet."
 
+5th December 2015
+
+### Ralph Waldo Emerson - Self Reliance
+
+"In every work of genius we recognize our own rejected thoughts : they come back to us with a ceratin aliented majesty,"
+
 
 
 
