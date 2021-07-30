@@ -1,8 +1,8 @@
 ---
-description: Writing & Notes from 2021
+description: 'Writing, Notes & Quotes from 2021'
 ---
 
-# Writing & Notes from 2021
+# Writing, Notes & Quotes from 2021
 
 ## July 2021
 

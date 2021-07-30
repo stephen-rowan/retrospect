@@ -4,11 +4,11 @@
 
 ## 2021
 
-* [Writing & Notes from 2021](2021/untitled.md)
+* [Writing, Notes & Quotes from 2021](2021/untitled.md)
 
 ## 2015
 
-* [Writing & Notes from 2015](2015/untitled.md)
+* [Writing, Notes & Quotes from 2015](2015/untitled.md)
 
 ## 2014
 

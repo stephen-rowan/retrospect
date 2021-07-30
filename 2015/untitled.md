@@ -1,8 +1,8 @@
 ---
-description: Writing & Notes from 2015
+description: 'Writing, Notes & Quotes from 2015'
 ---
 
-# Writing & Notes from 2015
+# Writing, Notes & Quotes from 2015
 
 ## December 2015
 
