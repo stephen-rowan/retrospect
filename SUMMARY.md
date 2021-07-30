@@ -8,7 +8,7 @@
 
 ## 2015
 
-* [Writing and Notes from 2015](2015/untitled.md)
+* [Writing & Notes from 2015](2015/untitled.md)
 
 ## 2014
 
