@@ -34,6 +34,10 @@ Berger, Peter L.; Luckmann, Thomas. The Social Construction of Reality: A Treati
 
 Berger, Peter L.; Luckmann, Thomas. The Social Construction of Reality: A Treatise in the Sociology of Knowledge \(p. 12\). Open Road Media. Kindle Edition.
 
+"_The logical structure of this trouble is basically the same in all cases: How can I be sure, say, of my sociological analysis of American middle-class mores in view of the fact that the categories I use for this analysis are conditioned by historically relative forms of thought, that I myself and everything I think is determined by my genes and by my ingrown hostility to my fellowmen, and that, to cap it all, I am myself a member of the American middle class?_"
+
+Berger, Peter L.; Luckmann, Thomas. The Social Construction of Reality: A Treatise in the Sociology of Knowledge \(p. 13\). Open Road Media. Kindle Edition.
+
 
 
 
