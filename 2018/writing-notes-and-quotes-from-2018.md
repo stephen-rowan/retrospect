@@ -26,6 +26,10 @@ _"Although Mannheim did not share Scheler’s ontological ambitions, he too was 
 
 Berger, Peter L.; Luckmann, Thomas. The Social Construction of Reality: A Treatise in the Sociology of Knowledge \(p. 10\). Open Road Media. Kindle Edition.
 
+"_Mannheim believed that different social groups vary greatly in their capacity thus to transcend their own narrow position_."
+
+Berger, Peter L.; Luckmann, Thomas. The Social Construction of Reality: A Treatise in the Sociology of Knowledge \(p. 10\). Open Road Media. Kindle Edition.
+
 
 
 
