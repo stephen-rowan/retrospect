@@ -16,7 +16,7 @@
 
 ## 2014
 
-* [Writing, Notes & Quotes from 2014](2014/2014.md)
+* [Writing, Notes & Quotes from 2014](2014/writing-notes-and-quotes-from-2014.md)
 
 ## 2013
 
