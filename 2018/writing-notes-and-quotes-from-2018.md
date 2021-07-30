@@ -46,6 +46,10 @@ Berger, Peter L.; Luckmann, Thomas. The Social Construction of Reality: A Treati
 
 Berger, Peter L.; Luckmann, Thomas. The Social Construction of Reality: A Treatise in the Sociology of Knowledge \(p. 13\). Open Road Media. Kindle Edition.
 
+"_Theoretical thought, “ideas,” Weltanschauungen are not that important in society. Although every society contains these phenomena, they are only part of the sum of what passes for “knowledge.”_"
+
+Berger, Peter L.; Luckmann, Thomas. The Social Construction of Reality: A Treatise in the Sociology of Knowledge \(p. 13\). Open Road Media. Kindle Edition.
+
 
 
 
