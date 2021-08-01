@@ -112,6 +112,8 @@ _In regard, then, to the sacred tradition of humanity, we learn that it consists
 
 "_Upon hearing a purported piece of information, the reaction was not ‘Is this true?’ but ‘Why is this person saying this? – What machinations or manipulations are going on here?’ The question of truth did not, as it were, have the social space in which it could breathe._" \(p. 10\). 
 
+"_In his reply to Clifford, we found him objectifying and privatizing belief, downplaying its connection with representation and truth, and stressing instead its personal function._" \(p. 13\). 
+
 
 
 
