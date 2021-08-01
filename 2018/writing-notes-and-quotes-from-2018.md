@@ -84,3 +84,5 @@ Blackburn, Simon. Truth: A Guide for the Perplexed: A Guide for the Perplexed, P
 
 "_The idea that our stories about the world and ourselves are just transient constructions, that our perspective is just one among many, or that illusion and fiction are pervasive, undermines the seriousness with which we can regard defects of sincerity and accuracy._" \(p. xvi\). 
 
+"_Relativism, by contrast, chips away at our right to disapprove of what anybody says. Its central message is that there are no asymmetries of reason and knowledge, objectivity and truth. Relativism thus goes beyond counselling that we must try to understand those whose opinions are different. It is not only that we must try to understand them, but also that we must accept a complete symmetry of standing. Their opinions ‘deserve the same respect’ as our own._" \(p. xviii\). 
+
