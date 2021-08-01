@@ -94,6 +94,10 @@ Blackburn, Simon. Truth: A Guide for the Perplexed: A Guide for the Perplexed, P
 
 _The sincerity of his conviction can in no wise help him; because he had no right to believe on such evidence as was before him. He had acquired his belief not by honestly earning it in patient investigation, but by stifling his doubts._" \(p. 5\). 
 
+"_Clifford sees the problem, and answers it in terms of method rather than in terms of results:_ 
+
+_In regard, then, to the sacred tradition of humanity, we learn that it consists, not in propositions or statements which are to be accepted and believed on the authority of the tradition, but in questions rightly asked, in conceptions which enable us to ask further questions, and in methods of answering questions. The value of all these things depends on their being tested day by day._" \(pp. 6-7\). 
+
 
 
 
