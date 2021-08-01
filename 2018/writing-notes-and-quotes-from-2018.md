@@ -48,6 +48,8 @@ _"Although Mannheim did not share Scheler’s ontological ambitions, he too was 
 
 "_Whether I \(the first person singular, here as in the following illustrations, standing for ordinary self-consciousness in everyday life\) am viewing the panorama of New York City or whether I become conscious of an inner anxiety, the processes of consciousness involved are intentional in both instances._"  \(p. 19\). 
 
+"_The reality of everyday life further presents itself to me as an intersubjective world, a world that I share with others. This intersubjectivity sharply differentiates everyday life from other realities of which I am conscious. I am alone in the world of my dreams, but I know that the world of everyday life is as real to others as it is to myself._" \(p. 22\).
+
 
 
 
