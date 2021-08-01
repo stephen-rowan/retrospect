@@ -132,6 +132,8 @@ _This is always the central argument for either relativism or scepticism: we can
 
 "_The variations of subjectivity bolster the move to the sceptical suspension of judgement, the epoche that was the intermediate goal of classical scepticism, the overall moral aim being ataraxia or the tranquillity of mind that comes from suspending all judgement._" \(pp. 33-34\). 
 
+"_There remains only the ‘is’ of actual response, not the ‘ought’ of the right or true way to respond. And a whole host of interrelated notions disappears along with that ‘ought’: notions of the rational way to respond, or the objective response, or the required response or the better informed response."_\(p. 35\). 
+
 
 
 
