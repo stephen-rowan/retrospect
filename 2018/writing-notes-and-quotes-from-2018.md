@@ -76,3 +76,11 @@ My Note : An assessment of time may not be absolute - such as with the sorties p
 
 "_Of course I “know myself better” than I can ever know him. My subjectivity is accessible to me in a way his can never be, no matter how “close” our relationship_." \(p. 28\). 
 
+### Truth -A Guide for the Perplexed
+
+Blackburn, Simon. Truth: A Guide for the Perplexed: A Guide for the Perplexed, Penguin Books Ltd. Kindle Edition.
+
+#### Introduction
+
+"_The idea that our stories about the world and ourselves are just transient constructions, that our perspective is just one among many, or that illusion and fiction are pervasive, undermines the seriousness with which we can regard defects of sincerity and accuracy._" \(p. xvi\). 
+
