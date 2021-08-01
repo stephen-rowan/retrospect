@@ -86,3 +86,9 @@ Blackburn, Simon. Truth: A Guide for the Perplexed: A Guide for the Perplexed, P
 
 "_Relativism, by contrast, chips away at our right to disapprove of what anybody says. Its central message is that there are no asymmetries of reason and knowledge, objectivity and truth. Relativism thus goes beyond counselling that we must try to understand those whose opinions are different. It is not only that we must try to understand them, but also that we must accept a complete symmetry of standing. Their opinions ‘deserve the same respect’ as our own._" \(p. xviii\). 
 
+#### 1 Faith, Belief and Reason
+
+"_The human understanding is not composed of dry light, but is subject to influence from the will and the emotions, a fact that creates fanciful knowledge; man prefers to believe what he wants to be true_." Francis Bacon, The New Organon, XLIX, p. 441. \(pp. 1-3\). 
+
+
+
