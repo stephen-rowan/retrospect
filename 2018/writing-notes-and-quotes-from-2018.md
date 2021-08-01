@@ -88,6 +88,10 @@ Blackburn, Simon. Truth: A Guide for the Perplexed: A Guide for the Perplexed, P
 
 #### 1 Faith, Belief and Reason
 
+#### 1 - Clifford’s Duties
+
+Blackburn, Simon. Truth: A Guide for the Perplexed: A Guide for the Perplexed \(p. 3\). Penguin Books Ltd. Kindle Edition.
+
 "_The human understanding is not composed of dry light, but is subject to influence from the will and the emotions, a fact that creates fanciful knowledge; man prefers to believe what he wants to be true_." Francis Bacon, The New Organon, XLIX, p. 441. \(pp. 1-3\). 
 
 "_Clifford is surely right that we censure the negligent shipowner. We would find his ‘faith’ in his ship discreditable, even though Clifford is careful to tell us that it is sincere. About this Clifford comments that:_ 
@@ -97,6 +101,12 @@ _The sincerity of his conviction can in no wise help him; because he had no righ
 "_Clifford sees the problem, and answers it in terms of method rather than in terms of results:_ 
 
 _In regard, then, to the sacred tradition of humanity, we learn that it consists, not in propositions or statements which are to be accepted and believed on the authority of the tradition, but in questions rightly asked, in conceptions which enable us to ask further questions, and in methods of answering questions. The value of all these things depends on their being tested day by day._" \(pp. 6-7\). 
+
+#### 2 - Will and Passion in James
+
+"_It is as if James is objectifying belief. He treats it as one might treat an ornament, for which the only questions would be: does this suit me; is it a good thing to wear to the social party? And then taking the ornament \(conviction\) or leaving it behind \(avoiding it\) are options that may be quite evenly balanced._" \(p. 8\). 
+
+
 
 
 
