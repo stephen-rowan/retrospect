@@ -126,6 +126,10 @@ Blackburn, Simon. Truth: A Guide for the Perplexed: A Guide for the Perplexed \(
 
 "_You are an instrument calibrated one way, and I am an instrument calibrated a different way, and that seems to be the end of it. We have different ways of responding. We have our different responses, our different subjectivities, but there is no question of fault or error. In our own time, of course, we can easily extend the argument to variations lying between one culture and another, or one gender and another, or one language or culture or historical period and another. What is salient to one culture need not be so to another._" \(pp. 32-33\). 
 
+"_What our history and language make it easy to think in terms of, another might conceal, and vice versa. T_
+
+_his is always the central argument for either relativism or scepticism: we can christen it the argument from the variation of subjectivities._" \(p. 33\). 
+
 
 
 
