@@ -40,6 +40,14 @@ _"Although Mannheim did not share Scheler’s ontological ambitions, he too was 
 
 #### 1. THE REALITY OF EVERYDAY LIFE
 
+"_The method we consider best suited to clarify the foundations of knowledge in everyday life is that of phenomenological analysis, a purely descriptive method and, as such, “empirical” but not “scientific”—as we understand the nature of the empirical sciences._ " \(p. 19\). 
+
+"_The phenomenological analysis of everyday life, or rather of the subjective experience of everyday life, refrains from any causal or genetic hypotheses, as well as from assertions about the ontological status of the phenomena analyzed._" \(p. 19\). 
+
+"_Commonsense contains innumerable pre- and quasi-scientific interpretations about everyday reality, which it takes for granted._" \(p. 19\). 
+
+"_Whether I \(the first person singular, here as in the following illustrations, standing for ordinary self-consciousness in everyday life\) am viewing the panorama of New York City or whether I become conscious of an inner anxiety, the processes of consciousness involved are intentional in both instances._"  \(p. 19\). 
+
 
 
 
