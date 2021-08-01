@@ -54,6 +54,10 @@ _"Although Mannheim did not share Scheler’s ontological ambitions, he too was 
 
 "_While I am capable of engaging in doubt about its reality, I am obliged to suspend such doubt as I routinely exist in everyday life._" \(p. 22\). 
 
+"_The world of everyday life proclaims itself and, when I want to challenge the proclamation, I must engage in a deliberate, by no means easy effort._" \(pp. 22-24\).
+
+"_As long as the routines of everyday life continue without interruption they are apprehended as unproblematic._" \(p. 24\). 
+
 
 
 
