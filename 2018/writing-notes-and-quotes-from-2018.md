@@ -62,6 +62,8 @@ _"Although Mannheim did not share Scheler’s ontological ambitions, he too was 
 
 "_The transition between realities is marked by the rising and falling of the curtain. As the curtain rises, the spectator is “transported to another world,” with its own meanings and an order that may or may not have much to do with the order of everyday life. As the curtain falls, the spectator “returns to reality,” that is, to the paramount reality of everyday life by comparison with which the reality presented on the stage now appears tenuous and ephemeral, however vivid the presentation may have been a few moments previously._" \(p. 25\). 
 
+"_All finite provinces of meaning are characterized by a turning away of attention from the reality of everyday life._" \(p. 25\). 
+
 
 
 
