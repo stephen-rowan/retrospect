@@ -52,6 +52,8 @@ _"Although Mannheim did not share Scheler’s ontological ambitions, he too was 
 
 "_I know that my natural attitude to this world corresponds to the natural attitude of others, that they also comprehend the objectifications by which this world is ordered, ..."_ \(p. 22\). 
 
+"_While I am capable of engaging in doubt about its reality, I am obliged to suspend such doubt as I routinely exist in everyday life._" \(p. 22\). 
+
 
 
 
