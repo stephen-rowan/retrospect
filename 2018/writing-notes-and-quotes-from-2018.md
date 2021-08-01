@@ -50,6 +50,8 @@ _"Although Mannheim did not share Scheler’s ontological ambitions, he too was 
 
 "_The reality of everyday life further presents itself to me as an intersubjective world, a world that I share with others. This intersubjectivity sharply differentiates everyday life from other realities of which I am conscious. I am alone in the world of my dreams, but I know that the world of everyday life is as real to others as it is to myself._" \(p. 22\).
 
+"_I know that my natural attitude to this world corresponds to the natural attitude of others, that they also comprehend the objectifications by which this world is ordered, ..."_ \(p. 22\). 
+
 
 
 
