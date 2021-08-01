@@ -74,7 +74,5 @@ My Note : An assessment of time may not be absolute - such as with the sorties p
 
 "_All other forms of relating to the other are, in varying degrees, “remote.”_" \(p. 28\).
 
-
-
-
+"_Of course I “know myself better” than I can ever know him. My subjectivity is accessible to me in a way his can never be, no matter how “close” our relationship_." \(p. 28\). 
 
