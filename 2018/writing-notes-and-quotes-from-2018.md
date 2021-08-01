@@ -108,6 +108,10 @@ _In regard, then, to the sacred tradition of humanity, we learn that it consists
 
 "_A related charge is that James is privatizing belief, concentrating not upon the social trust that is at the forefront of Clifford’s discussion, but upon the private satisfactions that follow upon settling a matter in one’s own mind. And it is this privatization of belief that leads to relativism: my belief ceases to exist in a public space, up for acceptance or rejection by all who pay attention_." \(p. 9\). 
 
+"_The satisfactions of people who hold one or other conviction are not to the point, unless the issue itself is one about those very satisfactions._" \(p. 9\). 
+
+
+
 
 
 
