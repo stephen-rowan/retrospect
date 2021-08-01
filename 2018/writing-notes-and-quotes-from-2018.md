@@ -114,6 +114,10 @@ _In regard, then, to the sacred tradition of humanity, we learn that it consists
 
 "_In his reply to Clifford, we found him objectifying and privatizing belief, downplaying its connection with representation and truth, and stressing instead its personal function._" \(p. 13\). 
 
+#### 2 Man the Measure
+
+"_The idols of the tribe are founded in human nature itself and in the very tribe or race of mankind. The assertion that the human senses are the measure of things is false; to the contrary, all perceptions, both of sense and mind, are relative to man, not to the universe. The human understanding is like an uneven mirror receiving rays from things and merging its own nature with the nature of things, which thus distorts and corrupts it._"  Francis Bacon, The New Organon, XLI, p. 41. \(pp. 23-25\). 
+
 
 
 
