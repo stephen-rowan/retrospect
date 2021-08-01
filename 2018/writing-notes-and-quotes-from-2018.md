@@ -64,9 +64,11 @@ _"Although Mannheim did not share Scheler’s ontological ambitions, he too was 
 
 "_All finite provinces of meaning are characterized by a turning away of attention from the reality of everyday life._" \(p. 25\). 
 
+"_Clock and calendar ensure that, indeed, I am a “man of my time.” Only within this temporal structure does everyday life retain for me its accent of reality._" \(p. 28\). 
 
+My Note : An assessment of time may not be absolute - such as with the sorties paradox - some times may be ambiguous
 
-
+"_In the face-to-face situation the other is appresented to me in a vivid present shared by both of us. I know that in the same vivid present I am appresented to him. My and his “here and now” continuously impinge on each other as long as the face-to-face situation continues._" \(p. 28\). 
 
 
 
