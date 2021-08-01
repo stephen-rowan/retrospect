@@ -106,6 +106,8 @@ _In regard, then, to the sacred tradition of humanity, we learn that it consists
 
 "_It is as if James is objectifying belief. He treats it as one might treat an ornament, for which the only questions would be: does this suit me; is it a good thing to wear to the social party? And then taking the ornament \(conviction\) or leaving it behind \(avoiding it\) are options that may be quite evenly balanced._" \(p. 8\). 
 
+"_A related charge is that James is privatizing belief, concentrating not upon the social trust that is at the forefront of Clifford’s discussion, but upon the private satisfactions that follow upon settling a matter in one’s own mind. And it is this privatization of belief that leads to relativism: my belief ceases to exist in a public space, up for acceptance or rejection by all who pay attention_." \(p. 9\). 
+
 
 
 
