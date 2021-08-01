@@ -130,6 +130,8 @@ Blackburn, Simon. Truth: A Guide for the Perplexed: A Guide for the Perplexed \(
 
 _This is always the central argument for either relativism or scepticism: we can christen it the argument from the variation of subjectivities._" \(p. 33\). 
 
+"_The variations of subjectivity bolster the move to the sceptical suspension of judgement, the epoche that was the intermediate goal of classical scepticism, the overall moral aim being ataraxia or the tranquillity of mind that comes from suspending all judgement._" \(pp. 33-34\). 
+
 
 
 
