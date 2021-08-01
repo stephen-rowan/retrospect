@@ -88,7 +88,7 @@ Blackburn, Simon. Truth: A Guide for the Perplexed: A Guide for the Perplexed, P
 
 #### 1 Faith, Belief and Reason
 
-#### 1 - Clifford’s Duties
+#### 1.1 - Clifford’s Duties
 
 Blackburn, Simon. Truth: A Guide for the Perplexed: A Guide for the Perplexed \(p. 3\). Penguin Books Ltd. Kindle Edition.
 
@@ -102,7 +102,7 @@ _The sincerity of his conviction can in no wise help him; because he had no righ
 
 _In regard, then, to the sacred tradition of humanity, we learn that it consists, not in propositions or statements which are to be accepted and believed on the authority of the tradition, but in questions rightly asked, in conceptions which enable us to ask further questions, and in methods of answering questions. The value of all these things depends on their being tested day by day._" \(pp. 6-7\). 
 
-#### 2 - Will and Passion in James
+#### 1.2 - Will and Passion in James
 
 "_It is as if James is objectifying belief. He treats it as one might treat an ornament, for which the only questions would be: does this suit me; is it a good thing to wear to the social party? And then taking the ornament \(conviction\) or leaving it behind \(avoiding it\) are options that may be quite evenly balanced._" \(p. 8\). 
 
@@ -117,6 +117,14 @@ _In regard, then, to the sacred tradition of humanity, we learn that it consists
 #### 2 Man the Measure
 
 "_The idols of the tribe are founded in human nature itself and in the very tribe or race of mankind. The assertion that the human senses are the measure of things is false; to the contrary, all perceptions, both of sense and mind, are relative to man, not to the universe. The human understanding is like an uneven mirror receiving rays from things and merging its own nature with the nature of things, which thus distorts and corrupts it._"  Francis Bacon, The New Organon, XLI, p. 41. \(pp. 23-25\). 
+
+
+
+#### 2.3 - The Variation of Subjectivities
+
+Blackburn, Simon. Truth: A Guide for the Perplexed: A Guide for the Perplexed \(p. 32\). Penguin Books Ltd. Kindle Edition.
+
+"_You are an instrument calibrated one way, and I am an instrument calibrated a different way, and that seems to be the end of it. We have different ways of responding. We have our different responses, our different subjectivities, but there is no question of fault or error. In our own time, of course, we can easily extend the argument to variations lying between one culture and another, or one gender and another, or one language or culture or historical period and another. What is salient to one culture need not be so to another._" \(pp. 32-33\). 
 
 
 
