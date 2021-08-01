@@ -70,5 +70,11 @@ My Note : An assessment of time may not be absolute - such as with the sorties p
 
 "_In the face-to-face situation the other is appresented to me in a vivid present shared by both of us. I know that in the same vivid present I am appresented to him. My and his “here and now” continuously impinge on each other as long as the face-to-face situation continues._" \(p. 28\). 
 
+"_This means that, in the face-to-face situation, the other’s subjectivity is available to me through a maximum of symptoms._" \(p. 28\). 
+
+"_All other forms of relating to the other are, in varying degrees, “remote.”_" \(p. 28\).
+
+
+
 
 
