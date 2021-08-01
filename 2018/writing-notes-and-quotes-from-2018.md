@@ -58,6 +58,8 @@ _"Although Mannheim did not share Scheler’s ontological ambitions, he too was 
 
 "_As long as the routines of everyday life continue without interruption they are apprehended as unproblematic._" \(p. 24\). 
 
+"_If, however, I come to the conclusion that my colleagues have gone collectively mad, the problem that presents itself is of yet another kind. I am now faced with a problem that transcends the boundaries of the reality of everyday life and points to an altogether different reality. Indeed, my conclusion that my colleagues have gone mad implies ipso facto that they have gone off into a world that is no longer the common world of everyday life._" \(p. 25\). 
+
 
 
 
