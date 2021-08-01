@@ -110,6 +110,8 @@ _In regard, then, to the sacred tradition of humanity, we learn that it consists
 
 "_The satisfactions of people who hold one or other conviction are not to the point, unless the issue itself is one about those very satisfactions._" \(p. 9\). 
 
+"_Upon hearing a purported piece of information, the reaction was not ‘Is this true?’ but ‘Why is this person saying this? – What machinations or manipulations are going on here?’ The question of truth did not, as it were, have the social space in which it could breathe._" \(p. 10\). 
+
 
 
 
