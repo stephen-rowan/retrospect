@@ -90,5 +90,11 @@ Blackburn, Simon. Truth: A Guide for the Perplexed: A Guide for the Perplexed, P
 
 "_The human understanding is not composed of dry light, but is subject to influence from the will and the emotions, a fact that creates fanciful knowledge; man prefers to believe what he wants to be true_." Francis Bacon, The New Organon, XLIX, p. 441. \(pp. 1-3\). 
 
+"_Clifford is surely right that we censure the negligent shipowner. We would find his ‘faith’ in his ship discreditable, even though Clifford is careful to tell us that it is sincere. About this Clifford comments that:_ 
+
+_The sincerity of his conviction can in no wise help him; because he had no right to believe on such evidence as was before him. He had acquired his belief not by honestly earning it in patient investigation, but by stifling his doubts._" \(p. 5\). 
+
+
+
 
 
